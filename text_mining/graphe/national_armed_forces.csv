@@ -1,0 +1,6 @@
+national_armed_forces,confidence,3
+national_armed_forces,armed_conflict,3
+national_armed_forces,north,3
+confidence,armed_conflict,1
+confidence,north,4
+armed_conflict,north,20

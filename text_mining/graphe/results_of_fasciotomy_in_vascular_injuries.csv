@@ -1,0 +1,13 @@
+results_of_fasciotomy_in_vascular_injuries,amputation,2
+results_of_fasciotomy_in_vascular_injuries,vascular_injuries_of_the_lower_extremities,2
+results_of_fasciotomy_in_vascular_injuries,necrosis,2
+results_of_fasciotomy_in_vascular_injuries,limb,2
+results_of_fasciotomy_in_vascular_injuries,less,2
+results_of_fasciotomy_in_vascular_injuries,compartment_syndrome,2
+amputation,vascular_injuries_of_the_lower_extremities,1
+amputation,necrosis,13
+amputation,limb,317
+amputation,less,62
+vascular_injuries_of_the_lower_extremities,necrosis,3
+vascular_injuries_of_the_lower_extremities,less,3
+limb,less,44

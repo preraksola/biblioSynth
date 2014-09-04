@@ -1,0 +1,10 @@
+dirty_bomb_effort,dirty_bomb,2
+dirty_bomb_effort,explosives,2
+dirty_bomb_effort,terrorists,2
+dirty_bomb_effort,intelligence,2
+dirty_bomb_effort,irradiation,2
+dirty_bomb,explosives,16
+dirty_bomb,terrorists,5
+dirty_bomb,intelligence,2
+dirty_bomb,irradiation,2
+explosives,terrorists,43

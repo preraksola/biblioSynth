@@ -1,0 +1,11 @@
+whites_and_Japanese,burden,4
+whites_and_Japanese,acid,4
+whites_and_Japanese,white_men,4
+whites_and_Japanese,intima-media_thickness,4
+whites_and_Japanese,less,4
+acid,white_men,8
+acid,intima-media_thickness,8
+acid,less,83
+white_men,intima-media_thickness,9
+white_men,less,16
+intima-media_thickness,less,3

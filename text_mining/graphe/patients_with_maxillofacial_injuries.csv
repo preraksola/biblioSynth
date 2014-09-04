@@ -1,0 +1,12 @@
+patients_with_maxillofacial_injuries,world_war,2
+patients_with_maxillofacial_injuries,Israeli_soldiers,1
+patients_with_maxillofacial_injuries,soldiers_and_civilians,1
+patients_with_maxillofacial_injuries,trauma_severity,1
+patients_with_maxillofacial_injuries,wounded,1
+world_war,wounded,175
+Israeli_soldiers,soldiers_and_civilians,6
+Israeli_soldiers,trauma_severity,6
+Israeli_soldiers,wounded,6
+soldiers_and_civilians,trauma_severity,6
+soldiers_and_civilians,wounded,19
+trauma_severity,wounded,2

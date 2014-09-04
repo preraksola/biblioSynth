@@ -1,0 +1,11 @@
+TCDD,exposure,98
+TCDD,fate,16
+TCDD,north,9
+TCDD,lakes,1
+TCDD,territory,1
+exposure,north,63
+exposure,territory,16
+fate,north,3
+fate,territory,3
+north,territory,35
+lakes,territory,12

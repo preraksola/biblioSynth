@@ -1,0 +1,9 @@
+pylori_infection,less,4
+pylori_infection,young_children,3
+pylori_infection,adolescents,3
+pylori_infection,development_of_cancer,1
+pylori_infection,burden,1
+less,adolescents,43
+less,burden,54
+young_children,adolescents,7
+young_children,burden,8

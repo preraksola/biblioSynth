@@ -1,0 +1,12 @@
+botulinum_toxin,exposure,20
+botulinum_toxin,ricin,15
+botulinum_toxin,lung,2
+botulinum_toxin,illnesses_such,1
+botulinum_toxin,north,1
+botulinum_toxin,necrosis,1
+exposure,north,63
+exposure,necrosis,14
+ricin,necrosis,13
+lung,north,3
+lung,necrosis,3
+north,necrosis,1

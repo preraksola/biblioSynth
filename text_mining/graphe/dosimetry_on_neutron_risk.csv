@@ -1,0 +1,13 @@
+dosimetry_on_neutron_risk,confidence,2
+dosimetry_on_neutron_risk,body,2
+dosimetry_on_neutron_risk,Japanese,2
+dosimetry_on_neutron_risk,radiation_risk,2
+dosimetry_on_neutron_risk,bomb_survivors,2
+dosimetry_on_neutron_risk,A-bomb_survivors,2
+dosimetry_on_neutron_risk,Outcomes,2
+confidence,bomb_survivors,5
+body,bomb_survivors,9
+Japanese,bomb_survivors,105
+radiation_risk,bomb_survivors,12
+radiation_risk,Outcomes,2
+A-bomb_survivors,Outcomes,5

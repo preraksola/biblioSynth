@@ -1,0 +1,10 @@
+simulator_flight_performance,less,3
+simulator_flight_performance,combat,3
+simulator_flight_performance,workload,3
+simulator_flight_performance,weapons,3
+simulator_flight_performance,psychological,3
+simulator_flight_performance,rest,3
+less,workload,5
+combat,workload,37
+combat,weapons,56
+psychological,rest,22

@@ -1,0 +1,17 @@
+needle_decompression,Outcomes,4
+needle_decompression,evaluation_of_tactical_combat_casualty_care_interventions_in_a_combat_environment,4
+needle_decompression,misuse,4
+needle_decompression,Soldiers,4
+needle_decompression,trauma_care,4
+needle_decompression,trauma_patients,4
+Outcomes,evaluation_of_tactical_combat_casualty_care_interventions_in_a_combat_environment,1
+Outcomes,misuse,17
+Outcomes,Soldiers,268
+Outcomes,trauma_care,47
+Outcomes,trauma_patients,45
+evaluation_of_tactical_combat_casualty_care_interventions_in_a_combat_environment,trauma_patients,2
+misuse,trauma_care,2
+misuse,trauma_patients,2
+Soldiers,trauma_care,26
+Soldiers,trauma_patients,22
+trauma_care,trauma_patients,14

@@ -1,0 +1,11 @@
+Atomic_bomb_and_leukemia,atomic_bomb_radiation,4
+Atomic_bomb_and_leukemia,atomic_bomb_survivors,4
+Atomic_bomb_and_leukemia,anemia,2
+Atomic_bomb_and_leukemia,radiation_exposure,2
+Atomic_bomb_and_leukemia,leukemia,2
+atomic_bomb_radiation,atomic_bomb_survivors,73
+atomic_bomb_radiation,anemia,4
+atomic_bomb_radiation,leukemia,14
+atomic_bomb_survivors,anemia,16
+atomic_bomb_survivors,leukemia,181
+radiation_exposure,leukemia,40

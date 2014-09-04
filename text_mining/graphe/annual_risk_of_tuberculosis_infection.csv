@@ -1,0 +1,17 @@
+annual_risk_of_tuberculosis_infection,world_war,4
+annual_risk_of_tuberculosis_infection,speed,3
+annual_risk_of_tuberculosis_infection,young_people,3
+annual_risk_of_tuberculosis_infection,adults,3
+annual_risk_of_tuberculosis_infection,younger_generations,3
+annual_risk_of_tuberculosis_infection,Japanese,1
+annual_risk_of_tuberculosis_infection,isolation,1
+world_war,isolation,46
+speed,young_people,2
+speed,adults,5
+speed,Japanese,5
+speed,isolation,2
+young_people,adults,10
+young_people,isolation,1
+adults,isolation,9
+younger_generations,Japanese,3
+Japanese,isolation,46

@@ -1,0 +1,15 @@
+development_of_trauma-related_symptoms,reservists,2
+development_of_trauma-related_symptoms,combat,2
+development_of_trauma-related_symptoms,PTSD_scale,2
+development_of_trauma-related_symptoms,symptoms_of_posttraumatic_stress_disorder,1
+development_of_trauma-related_symptoms,exposure,1
+reservists,combat,17
+reservists,PTSD_scale,8
+reservists,symptoms_of_posttraumatic_stress_disorder,8
+reservists,exposure,7
+combat,PTSD_scale,71
+combat,symptoms_of_posttraumatic_stress_disorder,51
+combat,exposure,333
+PTSD_scale,symptoms_of_posttraumatic_stress_disorder,5
+PTSD_scale,exposure,14
+symptoms_of_posttraumatic_stress_disorder,exposure,39

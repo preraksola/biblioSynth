@@ -1,0 +1,16 @@
+work_in_war,psychological_distress,1
+work_in_war,nursing_practice,1
+work_in_war,exposure,1
+work_in_war,fear,1
+work_in_war,1930s,1
+work_in_war,morbidity,1
+work_in_war,depression,1
+work_in_war,stress,1
+work_in_war,manpower,1
+psychological_distress,exposure,87
+nursing_practice,1930s,4
+exposure,1930s,5
+fear,1930s,6
+morbidity,stress,22
+depression,stress,106
+depression,manpower,1

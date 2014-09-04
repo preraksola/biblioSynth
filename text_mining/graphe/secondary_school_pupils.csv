@@ -1,0 +1,16 @@
+secondary_school_pupils,teenagers,2
+secondary_school_pupils,fear,2
+secondary_school_pupils,fear_of_nuclear_war,2
+secondary_school_pupils,adolescents,2
+secondary_school_pupils,nuclear_threat,2
+secondary_school_pupils,children,2
+secondary_school_pupils,nuclear_war,2
+teenagers,fear,2
+teenagers,fear_of_nuclear_war,2
+teenagers,adolescents,13
+teenagers,nuclear_threat,4
+teenagers,nuclear_war,17
+fear,adolescents,35
+fear_of_nuclear_war,adolescents,9
+nuclear_threat,nuclear_war,12
+children,nuclear_war,44

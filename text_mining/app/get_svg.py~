@@ -1,0 +1,138 @@
+#!/usr/bin/env /usr/bin/python
+# -*- coding: utf-8 -*-
+
+import igraph
+
+def line_width(w):
+    if w > 10:
+        return 3
+    elif w > 3:
+        return 2;
+    else:
+        return 1;
+
+def get_svg(args):
+    gt = ''
+    mode = '' if args['GraphMode'] == 'complete' else 'Simple'
+    if 'GraphTerm' in args:
+        gt = args['GraphTerm']
+    graphml_path = '/home/salma/warMATRICE/graphe/{}{}.graphml'.format(gt.replace(' ', '_'), mode)
+    print graphml_path
+    svg_path =  '/home/salma/warMATRICE/text_mining/data/my_cloud_colored.svg'
+    
+    margin = 50
+    width = 1600
+    height = 2500
+    try:
+        g = igraph.Graph.Read_GraphML(graphml_path)
+    except IOError:
+        return '<p>The graph of {gt} is unavailable.</p>'.format(gt=gt)
+    cl = g.community_walktrap().as_clustering()
+    template = ''
+    f = open(svg_path, 'r')
+    template = f.read()
+    f.close()
+    vs = len(g.vs)
+    svg_layout = g.layout('kk')
+    svg_layout.fit_into(igraph.BoundingBox(width, height))
+    
+    list_datasets = []
+    list_shadows = []
+    list_links = []
+    for i in xrange(vs):
+        list_datasets.append('''
+        <a id="dataset-{name}" class="dataset {gp}" xlink:href="co_articles.py?FirstTerm={gt}&SecondTerm={nr}" target="_blank" transform="translate({coord[0]} {coord[1]})" >
+            <circle r="42"></circle>
+            <text class="label" id="t-{name}" x="0" y="3" fontsize="8">{name}
+            </text>
+        </a>
+        '''.format(name=g.vs['name'][i], coord=svg_layout[i], gp='' if i == 0 else 'g' + str(cl.membership[i]), gt=gt, nr=g.vs['name'][i].replace('_', ' ') ))
+        list_shadows.append('''
+        <use id="shadow-{name}" x="{coord[0]}" y="{coord[1]}" xlink:href="#shadow-size5"></use>
+        '''.format(name=g.vs['name'][i], coord=svg_layout[i]))
+    
+    for edge in g.es:
+        source = edge.source
+        target = edge.target
+        list_links.append('''
+            <line x1="{coord1[0]}" y1="{coord1[1]}" x2="{coord2[0]}" y2="{coord2[1]}" marker-end="url(#arrowhead-end-width{w})" class="links width{w} {fromcenter} from-{name1} to-{name2}"></line>
+        '''.format(name1=g.vs['name'][source], name2=g.vs['name'][target], w=line_width(edge['weight']), coord1=svg_layout[source], coord2=svg_layout[target], fromcenter='fromcenter' if source == 0 else '' ))
+    
+    
+    
+    #print '''<div id="container" style="height:2000px; width:1000px;">'''
+    return template.format(layer_datasets=u''.join(list_datasets), layer_shadows=u''.join(list_shadows), layer_links=u''.join(list_links))
+    #print '''</div>'''
+    
+    
+def get_svg_all(args):
+    gt = ''
+ 
+    #mode = '' if args['GraphMode'] == 'complete' else 'Simple'
+    
+    if 'GraphTerm' in args:
+        gt = args['GraphTerm']
+    
+    
+    #graphml_path = '/home/salma/MATRICEFanny/text_mining/data/graphe_PTSD/{}{}.graphml'.format(gt.replace(' ', '_'), mode)
+    '''
+    if gt == "cluster1":
+    	graphml_path = '/home/salma/warMATRICE/grapheVIP_cl00.graphml'
+    else:
+    	if gt == "cluster2":
+    		graphml_path = '/home/salma/warMATRICE/grapheVIP_cl01.graphml'
+    '''
+    graphml_path = '/home/salma/warMATRICE/grapheVIP_cl00.graphml'
+    print graphml_path
+    svg_path =  '/home/salma/warMATRICE/text_mining/data/my_cloud_colored.svg'
+    
+    #print graphml_path
+    margin = 50
+    width = 1600
+    height = 2500
+    try:
+        g = igraph.Graph.Read_GraphML(graphml_path)
+    except IOError:
+        return '<p>The graph of {ct} is unavailable.</p>'.format(gt=gt)
+    cl = g.community_walktrap().as_clustering()
+    template = ''
+    f = open(svg_path, 'r')
+    template = f.read()
+    f.close()
+    vs = len(g.vs)
+    svg_layout = g.layout('kk')
+    svg_layout.fit_into(igraph.BoundingBox(width, height))
+    
+    list_datasets = []
+    list_shadows = []
+    list_links = []
+    for i in xrange(vs):
+        list_datasets.append('''
+        <a id="dataset-{name}" class="dataset {gp}" xlink:href="one_term.py?GraphTerm={nr}&GraphMode=simple" target="_blank" transform="translate({coord[0]} {coord[1]})" >
+            <circle r="42"></circle>
+            <text class="label" id="t-{name}" x="0" y="3" fontsize="8">{name}
+            
+            </text>
+        </a>
+        '''.format(name=g.vs['name'][i], coord=svg_layout[i], gp='' if i == 0 else 'g' + str(cl.membership[i]), gt=gt, nr=g.vs['name'][i].replace('_', ' ') ))
+        list_shadows.append('''
+        <use id="shadow-{name}" x="{coord[0]}" y="{coord[1]}" xlink:href="#shadow-size5"></use>
+        '''.format(name=g.vs['name'][i], coord=svg_layout[i]))
+    
+    for edge in g.es:
+        source = edge.source
+        target = edge.target
+        list_links.append('''
+            <line x1="{coord1[0]}" y1="{coord1[1]}" x2="{coord2[0]}" y2="{coord2[1]}" marker-end="url(#arrowhead-end-width{w})" class="links width{w} {fromcenter} from-{name1} to-{name2}"></line>
+        '''.format(name1=g.vs['name'][source], name2=g.vs['name'][target], w=line_width(edge['weight']), coord1=svg_layout[source], coord2=svg_layout[target], fromcenter='fromcenter' if source == 0 else '' ))
+    
+    
+    
+    #print '''<div id="container" style="height:2000px; width:1000px;">'''
+    return template.format(layer_datasets=u''.join(list_datasets), layer_shadows=u''.join(list_shadows), layer_links=u''.join(list_links))
+    #print '''</div>'''
+        
+    
+    
+    
+    

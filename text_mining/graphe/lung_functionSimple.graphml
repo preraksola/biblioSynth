@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">lung_function</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">gas</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">lung_disease</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">burden</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">respiratory_symptoms</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">Veterans</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">risk_of_later_development</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">less</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">warfare_agents</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">stress</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">Croatia</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">exposure</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">mustard_gas</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">disorder</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">sulfur_mustard</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">cross_sectional</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">veteran_group</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">war_veterans</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">Australian_veterans</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">chemical_warfare_agents</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">ricin</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">nineteenth_century</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">last_decade</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">world_war</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">shock</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">suffering</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">rash</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">foreign_body</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">intoxication</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">explosives</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">complaints</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">women</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">toxins</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">atrophy</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">lung</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">toxicity</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">12</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n0" target="n6">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n0" target="n8">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n0" target="n9">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n0" target="n10">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n0" target="n11">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n0" target="n12">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n0" target="n13">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n0" target="n14">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n0" target="n15">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n0" target="n16">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n0" target="n17">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n0" target="n18">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n0" target="n19">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n0" target="n20">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n21">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n22">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n23">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n24">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n25">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n26">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n27">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n28">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n29">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n30">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n31">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n32">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n33">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n34">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n35">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

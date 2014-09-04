@@ -1,0 +1,13 @@
+onset_AUDs,disorder,3
+onset_AUDs,Operation_Iraqi,3
+onset_AUDs,Iraqi_Freedom,3
+onset_AUDs,combat,3
+onset_AUDs,mental_disorders,3
+disorder,Operation_Iraqi,37
+disorder,combat,107
+disorder,mental_disorders,41
+Operation_Iraqi,combat,308
+Operation_Iraqi,mental_disorders,17
+Iraqi_Freedom,combat,350
+Iraqi_Freedom,mental_disorders,18
+combat,mental_disorders,102

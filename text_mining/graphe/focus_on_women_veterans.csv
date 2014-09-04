@@ -1,0 +1,11 @@
+focus_on_women_veterans,duty,2
+focus_on_women_veterans,health-related_quality_of_life,2
+focus_on_women_veterans,conflict,2
+focus_on_women_veterans,women_veterans,2
+focus_on_women_veterans,Veterans,2
+duty,women_veterans,6
+duty,Veterans,95
+health-related_quality_of_life,women_veterans,1
+health-related_quality_of_life,Veterans,49
+conflict,women_veterans,6
+conflict,Veterans,319

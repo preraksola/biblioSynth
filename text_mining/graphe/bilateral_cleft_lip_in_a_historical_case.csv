@@ -1,0 +1,9 @@
+bilateral_cleft_lip_in_a_historical_case,world_war,2
+bilateral_cleft_lip_in_a_historical_case,identity,2
+bilateral_cleft_lip_in_a_historical_case,lip,2
+bilateral_cleft_lip_in_a_historical_case,fate,2
+world_war,identity,95
+world_war,lip,7
+world_war,fate,62
+identity,fate,10
+lip,fate,1

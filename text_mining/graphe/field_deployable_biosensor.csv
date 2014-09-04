@@ -1,0 +1,7 @@
+field_deployable_biosensor,ricin,2
+field_deployable_biosensor,collaboration,2
+field_deployable_biosensor,botulinum_toxin,2
+field_deployable_biosensor,sensors,2
+field_deployable_biosensor,assay,2
+collaboration,botulinum_toxin,1
+sensors,assay,5

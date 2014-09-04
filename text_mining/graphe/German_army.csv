@@ -1,0 +1,10 @@
+German_army,breeding,5
+German_army,north,2
+German_army,armed_conflict,2
+German_army,territory,1
+German_army,exposure,1
+breeding,north,7
+breeding,territory,3
+north,territory,35
+armed_conflict,territory,17
+armed_conflict,exposure,72

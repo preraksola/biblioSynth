@@ -1,0 +1,77 @@
+#!/usr/bin/env /usr/bin/python
+# -*- coding: utf-8 -*-
+import render
+import query
+import util
+import get_svg
+
+
+args = util.get_args() #get the form data in an array
+
+render.http_header() #load header
+render.html_header() #load scripts
+gt = args['GraphTerm'] if 'GraphTerm' in args else ''
+#ct = args['ClusterTerm'] if 'ClusterTerm' in args else ''
+mode = args['GraphMode'] if 'GraphMode' in args else ''
+render.render_div_search(ft=gt, gt=gt) #display form
+#render.render_datalist( 'terms');
+
+if gt:
+    print '''
+    <t3>Research of term in lexical field</t3>
+    '''.format(gt=gt)
+    if mode == 'text':
+        print '''
+        <p>Text mode, all cooccurrents</p>
+        <div style="weight: 500px; height: 500px;">
+        <table cellspacing="0">
+        '''
+        for (word, co) in query.get_cooccurrences(gt):
+            print '''
+            <tr><td>
+            <a target="_blank" href="/co_articles.py?FirstTerm={gt}&SecondTerm={word}">{word} {co}</a>
+            </td></tr>
+            '''.format(gt=gt, word=word, co=co)
+        print '''
+        </table>
+        </div>
+        '''
+    else:
+        if mode == 'simple':
+            print '''
+            <p>Simple graph mode, {gt} linked with 70 first of its cooccurrents</p>
+            '''.format(gt=gt)
+            print '''
+		    <div id="container" style="width:1000px; height:1000px; border: 1px solid black">
+		    '''
+	    print get_svg.get_svg(args)
+	    print '''
+		    </div>
+		    '''
+        else:
+            if mode == 'complete':
+	    	print '''
+		        <p>Complete graph mode, {gt} and 70 first of its cooccurrents are linked between</p>
+		        '''.format(gt=gt)
+		print '''
+			<div id="container" style="width:1000px; height:1000px; border: 1px solid black">
+			'''
+		print get_svg.get_svg(args)
+		print '''
+			</div>
+				'''
+            else:
+            	print '''
+		        <p>Most connected terms in this search</p>
+		        '''.format(gt=gt)
+		        
+		print '''
+		    	<div id="container" style="width:1000px; height:1000px; border: 1px solid black">
+		    	'''
+		args = "all"
+		#args=["cluster1","cluster2"]
+		print get_svg.get_svg_all(args)
+		print '''
+		    	</div>
+		    	'''
+        

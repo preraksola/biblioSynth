@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <link rel="stylesheet" type="text/css" href="..\css\primary.css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1265.21">
+
+  <script>
+	function changeTwo(url1, url2)
+	{
+		top.iframe_content.location.href = url1;
+		top.iframe_search.location.href = url2;
+	}
+  </script>
+
+  </head>
+
+  <body>
+
+	</br>
+	<div class = "play"><span> </span>
+		<a href= "#" onclick = "changeTwo('../html/graph.html','../html/search_form.html')"> <img src="../images/play.png"> </img> </a>
+	</div>
+
+  </body>
+
+</html>

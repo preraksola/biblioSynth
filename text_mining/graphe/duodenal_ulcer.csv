@@ -1,0 +1,17 @@
+duodenal_ulcer,psychological_trauma,3
+duodenal_ulcer,drinking,3
+duodenal_ulcer,disturbance,3
+duodenal_ulcer,north,2
+duodenal_ulcer,Croatia,1
+duodenal_ulcer,less,1
+psychological_trauma,disturbance,5
+psychological_trauma,north,1
+psychological_trauma,Croatia,2
+psychological_trauma,less,12
+drinking,disturbance,2
+drinking,north,7
+drinking,Croatia,1
+drinking,less,36
+disturbance,north,8
+disturbance,Croatia,11
+north,Croatia,13

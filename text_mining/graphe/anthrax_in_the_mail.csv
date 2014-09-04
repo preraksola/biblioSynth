@@ -1,0 +1,8 @@
+anthrax_in_the_mail,scene,1
+anthrax_in_the_mail,attack,1
+anthrax_in_the_mail,insecticides,1
+anthrax_in_the_mail,terrorist_attacks,1
+scene,attack,13
+scene,terrorist_attacks,22
+attack,terrorist_attacks,33
+insecticides,terrorist_attacks,2

@@ -1,0 +1,14 @@
+tranexamic_acid,combat,10
+tranexamic_acid,shock,10
+tranexamic_acid,1960s,2
+tranexamic_acid,bleeding,2
+tranexamic_acid,world_war,2
+tranexamic_acid,1980s,2
+tranexamic_acid,stroke,2
+shock,bleeding,52
+shock,world_war,136
+shock,1980s,2
+bleeding,world_war,18
+bleeding,1980s,1
+bleeding,stroke,5
+1980s,stroke,1

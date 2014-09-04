@@ -1,0 +1,9 @@
+Exhumation_of_mass_graves,justice,2
+Exhumation_of_mass_graves,prosecution,1
+Exhumation_of_mass_graves,body,1
+Exhumation_of_mass_graves,execution,1
+Exhumation_of_mass_graves,power,1
+justice,prosecution,5
+justice,body,4
+prosecution,body,2
+execution,power,5

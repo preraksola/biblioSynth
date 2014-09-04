@@ -1,0 +1,11 @@
+plasma_atomic_emission,metal,2
+plasma_atomic_emission,second_world_war,1
+plasma_atomic_emission,shock,1
+plasma_atomic_emission,stress,1
+plasma_atomic_emission,gas,1
+metal,shock,6
+metal,stress,9
+second_world_war,shock,7
+second_world_war,stress,31
+second_world_war,gas,15
+shock,stress,16

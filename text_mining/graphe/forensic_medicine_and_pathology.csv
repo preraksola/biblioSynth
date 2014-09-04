@@ -1,0 +1,10 @@
+forensic_medicine_and_pathology,civil_war,7
+forensic_medicine_and_pathology,victims,7
+forensic_medicine_and_pathology,alcohol,7
+forensic_medicine_and_pathology,rape,7
+civil_war,victims,26
+civil_war,alcohol,9
+civil_war,rape,2
+victims,alcohol,27
+victims,rape,87
+alcohol,rape,3

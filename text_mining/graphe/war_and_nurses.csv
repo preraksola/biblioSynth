@@ -1,0 +1,15 @@
+war_and_nurses,Nurses,14
+war_and_nurses,war_zone,5
+war_and_nurses,Korean_War,2
+war_and_nurses,Veterans,1
+war_and_nurses,north,1
+war_and_nurses,soldiers_and_civilians,1
+Nurses,war_zone,100
+Nurses,Korean_War,15
+Nurses,north,46
+Nurses,soldiers_and_civilians,13
+war_zone,Korean_War,8
+war_zone,north,10
+Korean_War,north,31
+Veterans,north,59
+Veterans,soldiers_and_civilians,4

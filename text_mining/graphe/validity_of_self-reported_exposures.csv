@@ -1,0 +1,15 @@
+validity_of_self-reported_exposures,pesticides,2
+validity_of_self-reported_exposures,unexplained_illness,2
+validity_of_self-reported_exposures,Veterans,2
+validity_of_self-reported_exposures,nerve_gas,2
+validity_of_self-reported_exposures,attention,2
+validity_of_self-reported_exposures,exposure,2
+pesticides,unexplained_illness,5
+pesticides,Veterans,50
+pesticides,attention,10
+pesticides,exposure,99
+Veterans,attention,373
+Veterans,exposure,1733
+nerve_gas,attention,3
+nerve_gas,exposure,27
+attention,exposure,107

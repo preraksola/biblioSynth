@@ -1,0 +1,12 @@
+German_eugenics,hundreds_of_thousands,3
+German_eugenics,enthusiasm,3
+German_eugenics,killing,3
+German_eugenics,speed,3
+German_eugenics,leaders,3
+hundreds_of_thousands,leaders,2
+enthusiasm,killing,1
+enthusiasm,speed,1
+enthusiasm,leaders,1
+killing,speed,1
+killing,leaders,5
+speed,leaders,3

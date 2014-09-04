@@ -1,0 +1,6 @@
+short_bones,bone_fractures,4
+short_bones,hemorrhage,1
+short_bones,explosives,1
+bone_fractures,hemorrhage,3
+bone_fractures,explosives,4
+hemorrhage,explosives,8

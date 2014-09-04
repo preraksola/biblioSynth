@@ -1,0 +1,14 @@
+disease_epidemics,less,3
+disease_epidemics,north,1
+disease_epidemics,psychological_distress,1
+disease_epidemics,exposure,1
+disease_epidemics,drinking,1
+disease_epidemics,territory,1
+less,north,47
+less,psychological_distress,26
+less,exposure,228
+less,territory,16
+north,territory,35
+psychological_distress,exposure,87
+exposure,territory,16
+drinking,territory,11

@@ -1,0 +1,16 @@
+weakness_and_fatigue,war_veterans,4
+weakness_and_fatigue,Veterans,4
+weakness_and_fatigue,servicemen,4
+weakness_and_fatigue,lactate,4
+weakness_and_fatigue,plasma,4
+weakness_and_fatigue,complaints,4
+weakness_and_fatigue,forearm,4
+weakness_and_fatigue,perceptions,4
+weakness_and_fatigue,troops,4
+Veterans,servicemen,141
+Veterans,lactate,7
+Veterans,complaints,311
+servicemen,lactate,1
+plasma,complaints,4
+plasma,forearm,1
+perceptions,troops,16

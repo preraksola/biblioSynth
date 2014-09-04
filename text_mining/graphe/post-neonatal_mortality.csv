@@ -1,0 +1,13 @@
+post-neonatal_mortality,world_war,3
+post-neonatal_mortality,Nurses,3
+post-neonatal_mortality,postwar_period,3
+post-neonatal_mortality,war_history,3
+post-neonatal_mortality,1960s,3
+post-neonatal_mortality,infant_mortality,3
+world_war,1960s,162
+Nurses,1960s,27
+Nurses,infant_mortality,6
+postwar_period,1960s,11
+postwar_period,infant_mortality,6
+war_history,1960s,1
+war_history,infant_mortality,1

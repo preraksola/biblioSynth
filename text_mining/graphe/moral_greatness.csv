@@ -1,0 +1,14 @@
+moral_greatness,psychoanalysis,3
+moral_greatness,consciousness,3
+moral_greatness,justice,3
+moral_greatness,suffering,3
+moral_greatness,world_war,3
+moral_greatness,resistance,3
+psychoanalysis,consciousness,3
+psychoanalysis,world_war,86
+psychoanalysis,resistance,14
+justice,suffering,16
+justice,world_war,36
+justice,resistance,3
+suffering,world_war,80
+suffering,resistance,15

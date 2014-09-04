@@ -1,0 +1,9 @@
+outcomes_of_PTSD,depression,4
+outcomes_of_PTSD,abuse,1
+outcomes_of_PTSD,rape,1
+outcomes_of_PTSD,exposure,1
+depression,abuse,28
+depression,rape,14
+depression,exposure,210
+abuse,exposure,40
+rape,exposure,19

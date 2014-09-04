@@ -1,0 +1,17 @@
+traditional_cardiovascular_risk_factors,burden,2
+traditional_cardiovascular_risk_factors,less,2
+traditional_cardiovascular_risk_factors,Japanese_men,2
+traditional_cardiovascular_risk_factors,intima-media_thickness,2
+traditional_cardiovascular_risk_factors,acid,2
+traditional_cardiovascular_risk_factors,cross_sectional,2
+traditional_cardiovascular_risk_factors,white_men,2
+traditional_cardiovascular_risk_factors,whites_and_Japanese,2
+traditional_cardiovascular_risk_factors,Japanese,2
+Japanese_men,intima-media_thickness,10
+Japanese_men,acid,2
+Japanese_men,white_men,6
+Japanese_men,whites_and_Japanese,2
+acid,white_men,8
+cross_sectional,white_men,3
+cross_sectional,whites_and_Japanese,3
+cross_sectional,Japanese,12

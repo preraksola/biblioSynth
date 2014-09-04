@@ -1,0 +1,13 @@
+childhood_subjective_socioeconomic_status,socioeconomic_status,3
+childhood_subjective_socioeconomic_status,old_age,3
+childhood_subjective_socioeconomic_status,world_war,3
+childhood_subjective_socioeconomic_status,less,3
+childhood_subjective_socioeconomic_status,Japanese,3
+socioeconomic_status,old_age,8
+socioeconomic_status,world_war,27
+socioeconomic_status,less,27
+socioeconomic_status,Japanese,4
+old_age,world_war,53
+old_age,less,30
+old_age,Japanese,12
+world_war,less,309

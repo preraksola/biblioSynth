@@ -1,0 +1,11 @@
+from cgi import FieldStorage
+
+
+def get_args():
+    form = FieldStorage()
+    di = {}
+    for key in form:
+        di[key] = form[key].value
+        print ('yahoo'), di[key]
+        print ('yes '), form[key].value
+    return di

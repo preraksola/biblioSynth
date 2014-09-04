@@ -1,0 +1,14 @@
+air_dispersion,zinc,1
+air_dispersion,exposure,1
+air_dispersion,illness,1
+air_dispersion,biological_warfare_agents,1
+air_dispersion,inhalation,1
+air_dispersion,nuclear_weapons,1
+air_dispersion,plutonium,1
+zinc,exposure,10
+zinc,biological_warfare_agents,3
+exposure,plutonium,57
+illness,biological_warfare_agents,10
+illness,inhalation,14
+inhalation,plutonium,16
+nuclear_weapons,plutonium,37

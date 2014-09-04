@@ -1,0 +1,8 @@
+military_psychiatrists,mental_disorders,1
+military_psychiatrists,reflections,1
+military_psychiatrists,explosives,1
+military_psychiatrists,exposure,1
+mental_disorders,reflections,4
+mental_disorders,exposure,83
+reflections,exposure,9
+explosives,exposure,33

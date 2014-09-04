@@ -1,0 +1,17 @@
+treatment_of_prisoners_of_war,justice,1
+treatment_of_prisoners_of_war,metal,1
+treatment_of_prisoners_of_war,world_war,1
+treatment_of_prisoners_of_war,citizens,1
+treatment_of_prisoners_of_war,Japanese,1
+treatment_of_prisoners_of_war,abuse,1
+treatment_of_prisoners_of_war,war_on_terror,1
+justice,metal,1
+justice,world_war,36
+justice,citizens,5
+justice,Japanese,4
+justice,abuse,15
+metal,world_war,64
+metal,citizens,2
+metal,abuse,1
+world_war,citizens,62
+Japanese,abuse,2

@@ -1,0 +1,13 @@
+obese_individuals,obesity,8
+obese_individuals,adults,4
+obese_individuals,body,3
+obese_individuals,necrosis,2
+obese_individuals,world_war,1
+obesity,body,26
+obesity,necrosis,1
+obesity,world_war,45
+adults,body,79
+adults,necrosis,6
+adults,world_war,207
+body,necrosis,5
+body,world_war,181

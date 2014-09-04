@@ -1,0 +1,14 @@
+extremity_trauma,combat-related_injuries,3
+extremity_trauma,heterotopic_ossification,3
+extremity_trauma,necrosis,2
+extremity_trauma,trauma_patients,2
+extremity_trauma,lung,1
+extremity_trauma,wound_care,1
+extremity_trauma,armed_conflict,1
+extremity_trauma,exposure,1
+combat-related_injuries,trauma_patients,2
+combat-related_injuries,exposure,1
+heterotopic_ossification,exposure,3
+trauma_patients,wound_care,1
+lung,exposure,125
+armed_conflict,exposure,72

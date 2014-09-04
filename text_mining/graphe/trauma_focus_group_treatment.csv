@@ -1,0 +1,16 @@
+trauma_focus_group_treatment,depression,3
+trauma_focus_group_treatment,anxiety,3
+trauma_focus_group_treatment,symptoms_of_posttraumatic_stress_disorder,3
+trauma_focus_group_treatment,traumatic_memories,3
+trauma_focus_group_treatment,Veterans,3
+trauma_focus_group_treatment,PTSD_symptoms,3
+trauma_focus_group_treatment,combat,3
+depression,symptoms_of_posttraumatic_stress_disorder,63
+depression,combat,170
+anxiety,symptoms_of_posttraumatic_stress_disorder,36
+anxiety,combat,90
+traumatic_memories,Veterans,31
+traumatic_memories,PTSD_symptoms,15
+traumatic_memories,combat,10
+Veterans,combat,1423
+PTSD_symptoms,combat,175

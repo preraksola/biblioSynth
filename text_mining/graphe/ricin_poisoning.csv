@@ -1,0 +1,16 @@
+ricin_poisoning,ricin,13
+ricin_poisoning,citizens,6
+ricin_poisoning,judgments,6
+ricin_poisoning,ingestion,6
+ricin_poisoning,exposure,6
+ricin_poisoning,weapons,6
+ricin_poisoning,lung,5
+ricin,exposure,13
+citizens,exposure,24
+citizens,lung,4
+judgments,exposure,7
+judgments,weapons,5
+ingestion,exposure,45
+ingestion,weapons,7
+ingestion,lung,5
+weapons,lung,25

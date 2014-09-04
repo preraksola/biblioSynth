@@ -1,0 +1,14 @@
+early_reception_of_the_notion_of_schizophrenie,world_war,2
+early_reception_of_the_notion_of_schizophrenie,acceptance,2
+early_reception_of_the_notion_of_schizophrenie,1920s,2
+early_reception_of_the_notion_of_schizophrenie,disorder,2
+early_reception_of_the_notion_of_schizophrenie,schizophrenia,2
+early_reception_of_the_notion_of_schizophrenie,dementia,2
+world_war,dementia,35
+acceptance,disorder,3
+acceptance,dementia,1
+1920s,disorder,10
+1920s,schizophrenia,1
+1920s,dementia,1
+disorder,dementia,12
+schizophrenia,dementia,4

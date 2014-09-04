@@ -1,0 +1,10 @@
+tsunami-related_distress_in_children,depression,2
+tsunami-related_distress_in_children,body,2
+tsunami-related_distress_in_children,stress,2
+tsunami-related_distress_in_children,exposure,2
+depression,body,25
+depression,stress,106
+depression,exposure,210
+body,stress,43
+body,exposure,149
+stress,exposure,357

@@ -1,0 +1,5864 @@
+features
+comparison
+clear cell renal cell carcinoma
+ccRCC
+binding
+mice
+diagnosis
+Carbonic anhydrase
+advantage
+antigen
+Cell
+turnover
+cG250
+CAIX
+tumor uptake
+antibodies
+tracers
+imaging
+xenograft
+tumor model
+rates
+internalization
+experiments
+binding affinity
+activities
+vitro
+Cell lines
+kinetics
+equilibrium
+image
+time
+normal tissues
+ratio
+estimate
+complex
+Receptor
+molecules
+tumor cells
+units
+quality
+useful tools
+binds
+information
+evaluation
+model
+density
+fibroblasts
+mammary gland
+capability
+hypoxia
+downregulation
+hypoxia-inducible factor
+gene
+cancer cells
+cross-talk
+interleukin-6
+stem cells
+stimuli
+breast tumor
+hypoxia-inducible factor-1
+effects
+acts
+cancer stem
+niche
+interleukin
+phenotype
+receptor nuclear
+breast tissue
+pathway
+associates
+nuclear factor
+OH
+expression and activity
+ms
+ability
+environment
+agonist
+ligand
+interference
+correlation
+tissue micro-array
+tumor
+relationship
+function
+positive
+grade
+survival analysis
+clinical significance
+survival in patients
+independent prognostic factor
+conclusions
+microarray
+cohort
+patient age
+astrocytomas
+Patients
+expression pattern
+prognosis of patients
+cell proliferation
+HIF-1 alpha
+Hsp27 expression
+oxidative stress
+array
+samples
+alpha subunit
+association
+method
+mutations
+glioma
+presence
+protein
+antioxidant
+proliferation index
+neuronal death
+dendritic spines
+Overexpression
+adult brain
+reelin pathway
+Reelin
+approach
+AD
+disease
+therapeutic target
+role
+pathology
+development
+recognition
+extracellular matrix protein
+memory
+plasticity
+treatment
+formation
+cascade
+plaques
+loss
+oligomers
+cognitive deficits
+species
+pathogenesis
+findings
+tissue
+locus
+mouse model
+genome
+potassium
+content
+secretion
+cation
+mutant mice
+health
+members
+transcription factor
+summary
+context
+potential
+stimulation
+population
+point
+significant association
+expression levels
+enzyme
+target
+prerequisite
+increase
+manner
+relevance
+sulfate
+knockdown
+adenoma
+transport activity
+molecular mechanisms
+regulation
+region
+effector
+high expression
+subjects
+gland
+solute carrier family
+factors such
+biomarkers
+organisms
+investigation
+entorhinal cortex
+reeler mutant mice
+neocortical development
+interaction
+neuronal
+wild type
+cadherin
+corticogenesis
+division
+changes
+situ hybridization
+inversion
+cell adhesion
+calcium
+cell layer
+layer formation
+code
+zone
+circuits
+critical role
+brain
+adult
+cortical layers
+many
+sonic hedgehog
+inhibitor
+disorders
+interferon regulatory factor
+defects
+processes
+etiology
+reduction
+understanding
+compounds
+fusion
+growth
+outgrowth
+cell death
+Wnt
+cleft lip
+gene expression
+mouse and human
+proliferation
+network
+gene mutations
+liver fibrosis
+potential mechanism
+mRNA levels
+Western
+collagen
+reverse transcription-polymerase chain reaction
+transcription polymerase chain reaction
+markers
+expression
+proliferation rate
+hepatic stellate cells
+kit
+reverse transcription
+real time
+Rats
+fibrosis
+bile duct ligation
+western blot
+test
+determination
+different concentrations
+cytokines
+growth factor
+administration
+kinase
+muscle actin
+IL
+protein-1
+JNK
+decrease
+induction
+monocyte chemoattractant protein
+Toll-like receptor
+concentrations
+extracellular matrix
+hepatic
+chronic
+mRNA expression
+protein levels
+cell nuclear antigen
+insult
+cyclin D1 expression
+tumour necrosis factor
+Muscle
+serum levels
+agents
+liver disease
+high affinity
+eomesodermin
+Th1 phenotype
+means
+signal
+markers such
+transgenic mice
+perforin
+activation
+regulator
+factor
+viral infection
+generation
+analysis
+drive
+responsiveness
+mice deficient
+IL-2
+cytotoxicity
+T cells
+frequency
+need
+CD4
+neurogenesis
+control group
+reelin signal transduction
+cortical plate
+neuroepithelium
+session
+cell migration
+consecutive days
+significant changes
+field
+glial
+fibers
+neuronal migration
+expression increases
+cerebral cortex
+central nervous system
+c mice
+signal transduction pathways
+assay
+tissue repair
+differentiation
+functional characterization
+processing
+diabetes
+regeneration
+proteome
+wound
+healing
+amniotic fluid
+AF
+animal models
+events
+actin
+procedures
+angiogenesis
+mother
+mitosis
+alpha
+situ
+days
+control
+myofibroblasts
+vessel
+form
+Clinical application
+rights
+proteasome inhibitor
+bortezomib
+hepatocellular carcinoma
+gene expression analysis
+cyclin dependent kinase
+cell number
+family members
+nmol
+hepatocyte
+display
+EMT
+incubation
+cyclins
+cdks
+target genes
+previous studies
+amount
+application
+time points
+epithelial-mesenchymal transition
+technology
+vitro model
+cm
+dramatic changes
+siRNA
+significant impact
+HepG2 cells
+significant decrease
+microarray analysis
+differential expression
+cell phenotype
+mechanism of action
+very low-density lipoprotein receptor
+apolipoprotein E receptor
+granulosa cells
+follicles
+oocytes
+chicken
+surface
+demands
+structure
+size
+phosphorylation
+uptake
+density lipoprotein
+germ cells
+reactive oxygen species
+presence or absence
+injury
+production
+inhibition
+up-regulation
+DNA synthesis
+pretreatment
+future
+mechanism
+ERK1
+acid
+kidney
+terminals
+cyclin A2
+dose-dependently
+cyclin D1
+phase
+lines
+dose
+various concentrations
+novel
+G2
+interleukin-16
+lesions
+therapy
+cell subsets
+MS patients
+long-term effects
+control patients
+Th17 cells
+myelin
+immune cells
+years
+mediator
+T-cell
+evidence
+IL-16 levels
+chemoattractant
+glycoprotein
+IL-16 expression
+beginning
+disease activity
+efficacy
+therapeutic effect
+biomarker
+LTD
+skeletal muscle
+channel activity
+patch
+determinant
+first evidence
+conductance
+protein degradation
+RING finger protein
+proteasome
+high glucose
+muscle ring finger protein
+artery
+clamp
+terminus
+subunit
+ubiquitin ligase
+lead
+proteolysis
+physical interaction
+pharmacological inhibition
+culture
+novel mechanism
+domain
+ubiquitination
+kappa
+smooth muscle cells
+hormone
+mRNA
+system
+protein-coupled receptor
+zebrafish
+fish
+neurons
+vertebrates
+projection
+insights
+injection
+median
+peptide
+transcripts
+raphe
+fear
+significance
+nucleus
+immunoreactivity
+axonal
+serotonin
+experience
+Cdk5
+activator
+ng
+ip
+systemic administration
+plays
+mg
+antidepressants
+serine
+symptoms
+depression
+dentate gyrus
+threonine kinase
+kg
+mM
+behavioral responses
+blockade
+infusion
+inhibitory effect
+action
+cell growth
+ligase
+cell functions
+damage
+knockout
+neuronal development
+macrophages
+wild type mice
+cytokine
+IL-4
+early-stage
+knock-out mice
+cancer
+muscle cells
+ring finger
+early
+satellite cell proliferation
+deficiency
+stage
+leukocytes
+epithelia
+scaffold
+epithelium
+layer
+stroma
+biopsy specimens
+gingiva
+keratin
+epithelial cells
+neutrophils
+expression profiles
+Immunohistochemistry
+type
+migration
+deposits
+numbers
+axon
+cell differentiation
+gain
+characteristics
+problem
+medium
+box
+transduction
+progenitor
+replacement
+isolation
+post
+photoreceptor
+retina
+degeneration
+specific markers
+immunocytochemistry
+profile
+Flow cytometric analysis
+essential role
+fibronectin
+polymerase chain reaction
+surface marker
+brain development
+risk
+reelin expression
+significant reduction
+disorders such
+corticosterone
+adulthood
+full length
+hippocampus
+methyl
+males
+females
+stress
+frontal cortex
+adolescence
+schizophrenia
+psychiatric disorders
+cause
+cleavage
+subunit composition
+wk
+glucocorticoids
+fragment
+repression
+turn
+repressor
+plant
+animals
+correlates
+transition
+suppressor
+group
+pro-inflammatory cytokine
+IL-16
+mRNA and protein levels
+inflammation
+knowledge
+real time quantitative
+inflammatory cytokines
+progression
+involvement
+bone
+series
+children
+tomography
+atrophy
+counseling
+metabolism
+statistical analysis
+categories
+single-nucleotide polymorphisms
+small cell lung cancer
+genotype
+peripheral blood mononuclear cells
+nucleotide polymorphisms
+chemotherapy
+non-small-cell lung cancer
+overall survival
+proportional hazards model
+transporter
+DNA
+Genetic polymorphisms
+OS
+drug
+thymocytes
+NK cells
+apoptosis
+wild-type controls
+bone marrow
+cell development
+homeostasis
+other organs
+negative
+origin
+requirement
+liver
+survival
+spleen
+early diagnosis
+advanced stage
+fluid
+strategy
+outcome
+destruction
+osteoarthritis
+affinity
+therapeutic
+monitoring
+degradation
+fractionation
+disease progression
+glycoproteins
+cartilage
+membrane
+phosphoprotein
+remodelling
+transferrin
+metalloproteinase
+reaction
+matrix
+pathophysiology
+insulin-like growth factor-1 receptor
+hepatocarcinogenesis
+serum
+insulin
+modulation
+loop
+homeobox
+CD
+suppression
+pituitary
+Insulin-like growth factor
+metastasis
+tumour size
+enhancer
+-like growth factors
+feedback
+cyclin
+invasion
+histone deacetylase inhibitor
+synthesis
+tumour suppressor
+G1
+poor prognosis
+hepatocytes
+cardiac hypertrophy
+pressure
+cardiomyocytes
+baseline
+coimmunoprecipitation
+endogenous inhibitor
+heart
+reporter
+enhancement
+luciferase
+immunoprecipitation
+weeks
+dysfunction
+stability
+transformation
+mutants
+dephosphorylation
+adaptor protein
+subunits
+xenografts
+guanine nucleotide exchange factor
+receptor subtypes
+acid receptor
+picrotoxin
+cat
+anesthesia
+capacity
+aa
+GABAA receptors
+threshold
+bladder
+antagonist
+nerve
+high doses
+low doses
+different roles
+steroid
+ovarian cell proliferation
+cyclin B1
+vitro addition
+mL
+cyclin expression
+apoptosis of porcine ovarian granulosa cells
+IGF
+copper
+proliferation marker
+progesterone
+dose dependent
+release
+modification
+molecular markers
+low-density lipoprotein receptor
+chick
+neuroblasts
+tendons
+disruption
+immunolabeling
+note
+very-low-density lipoprotein receptor
+differences
+gene expression patterns
+target cells
+nervous system
+apoER2
+carcinoma
+tumor progression
+rare tumors
+Similar results
+lactate dehydrogenase
+therapy response
+kinase pathway
+contribution
+alterations
+Immunohistochemical analysis
+promoter activity
+cooperation
+derivatives
+regression
+sulfonamides
+class
+value
+molecules such
+primary tumours
+structure-activity relationship
+prediction
+retinoblastoma
+germline
+island
+lysine
+variants
+histone
+subtypes
+Functional studies
+eukaryotes
+human cancers
+sarcoma
+dysregulation
+leukemia
+chromatin
+importance
+detection
+syndrome
+individuals
+diagnosis of the prognosis
+consensus
+combination
+amplification
+gastric cancer
+promoter methylation
+clinical outcome
+gastric cancer patients
+methylation
+prognostic factor
+viability
+nAChRs
+neuropeptide Y
+remodeling
+Recent advances
+neurotransmitter
+nicotinic acetylcholine receptors
+identification
+effectiveness
+currents
+Molecular imaging
+performance
+prognostic significance
+variables
+endogenous marker of hypoxia
+modalities
+entry
+areas
+epithelial membrane antigen
+cytokeratin
+giant cells
+multinucleated cells
+clinical
+incidence
+human chorionic gonadotropin
+follow-up
+lineage
+median age
+cathepsin
+metastatic disease
+vimentin
+reactivity
+tumors such
+necrosis
+appearance
+cytoplasm
+lissencephaly
+inclusion
+state
+score
+diagnostic tool
+challenge
+first example
+panel
+affected individuals
+hypoplasia
+missense mutations
+family
+novel mutation
+screening
+ceramide kinase
+partners
+granule
+characterization
+microtubules
+mRNAs
+amino acids
+gene family
+subcellular localization
+possibility
+limit
+cancer patients
+phenomenon
+important therapeutic target
+pH regulation
+ion transport
+normal cells
+properties
+functional
+immunotherapy
+leukemia cells
+program
+inhibitory action
+cell types
+epitope
+resistance
+cell cycle
+sensitivity
+polo-like kinase
+phosphorylated form
+perfusion
+trial
+chloride
+analogues
+cysteine
+leucine
+prostate cancer
+man
+limitation
+sodium
+variety
+EG
+management
+choline
+option
+metachromatic leukodystrophy
+abnormal pattern
+age
+date
+exon
+donor splice site
+arylsulfatase
+severity
+cysteine residue
+reverse transcriptase-polymerase chain reaction
+view
+proband
+Prenatal diagnosis
+intron
+-induced inhibition
+human colorectal cancer
+-containing
+suppressive effect
+zinc
+repeat
+embryonic development
+promoter hypermethylation
+G-protein-coupled receptor
+bone formation
+tumorigenicity
+bcl-2
+Molecular targets
+inflammatory diseases
+cyclin dependent kinase inhibitors
+cell viability
+signal transducer and activator
+cyclin-dependent kinase inhibitor p21
+deletion
+gene product
+phase arrest
+activator of transcription
+blocker
+therapeutic applications
+tumor physiology
+anticancer
+pleural effusion
+malignant mesothelioma
+cell blocks
+CAIX expression
+cell lineage
+positivity
+pH
+transcription
+subgroup
+specimens
+diagnostic marker
+pattern
+benign diseases
+counterpart
+oncogenesis
+regulation of cell proliferation
+anticancer drugs
+tool
+malignant cells
+cases
+temporal lobe epilepsy
+part of a Special Issue
+brain regions
+dentate granule cells
+location
+abnormalities
+autism
+dendrites
+connections
+deficits
+repair
+beta
+neuronal differentiation
+impairment
+diseases such
+subventricular zone
+nanoparticles
+rat model
+amyloid-beta
+adult rat
+effects of curcumin
+nuclear translocation
+bioavailability
+neurodegenerative diseases
+therapeutic approaches
+neural stem cells
+transcriptional activation
+colon cancer cells
+substitution
+element
+nucleotide
+regulatory mechanism
+reporter gene assays
+postnatal day
+differentiation process
+kg body weight
+apoptotic cells
+gestational day
+stream
+granule cells
+transients
+progenitor cells
+interneurons
+hippocampal neurogenesis
+nuclear protein
+hippocampal formation
+offspring
+early life exposure
+different effects
+vigabatrin
+balance
+synaptic proteins
+synaptogenesis
+regulatory role
+anticonvulsant
+potentiation
+excitatory synapses
+minutes
+elevated levels
+preference
+Differential effects
+hippocampus and cerebral
+relative
+zirconia implant abutments
+preparation
+analog
+testing
+margin
+cycle
+standard deviation
+significant difference
+interface
+other groups
+flow cytometry
+apoptosis of these cancer cells
+DNA content
+cell cycle progression
+treatment group
+functional properties
+place
+isoforms
+binding properties
+tumor development
+opposite effects
+anticancer therapies
+machinery
+sulfatases
+part
+ligand binding
+cell surface
+cancer therapy
+prognosis
+assembly
+peripheral
+clinical manifestation
+siblings
+protein gene
+vitamin
+clinical features
+complete loss
+extracellular protein
+breast
+higher risk
+tumor type
+Breast cancer
+large proportion
+large cohort
+sporadic cases
+advances
+germline mutations
+malignancy
+microenvironment
+Prognostic impact
+light
+hematoxylin and eosin
+aggressive behavior
+chromosome
+Genetic analysis
+biological behaviors
+androgen receptor
+loss of heterozygosity
+neoplasms
+women
+cytokeratins
+aberrations
+hybridization
+promoter
+monoclonal
+capillaries
+atrophic kidney
+distribution
+development and progression
+stage I
+matrix metalloproteinases
+invasiveness
+staging
+non-small cell lung cancer
+poly
+cancer cell lines
+authors
+risk factors
+migration and positioning
+genetic variants
+confidence interval
+reelin gene
+transmission
+ASD
+candidate genes
+autism spectrum
+meta-analysis
+cases and controls
+reln
+dopaminergic system
+substantia nigra
+motif
+mapping
+chemokine receptor
+slices
+dopaminergic neurons
+prefrontal cortex
+forebrain
+fate
+dopaminergic cells
+cell clusters
+striatum
+ventral tegmental area
+nucleus accumbens
+zinc transporter
+hyperglycemia
+allele frequency
+storage
+interplay
+susceptibility
+environmental factors
+flow
+polymerase chain reaction-restriction fragment length polymorphism
+rs13266634
+tet
+enrichment
+transcriptional regulation
+demethylation
+glutamic acid decarboxylase
+cerebellar cortex
+promoter region
+DNA methylation
+epigenetic mechanisms
+measures
+cerebella
+same regions
+neurodevelopmental disorder
+extracellular domain
+human carbonic anhydrase
+cell membranes
+specificity
+accumulation
+renal cell carcinoma
+competition
+phage display
+negative control
+protective role
+adenovirus
+diet
+lipid metabolism
+keratinocytes
+keratinocyte
+years old
+genomic DNA
+filament
+boy
+genotype-phenotype correlation
+transport
+skin diseases
+new mutations
+immunofluorescence
+pedigrees
+epidermis
+absence
+surgery
+clear cell
+negativity
+histology
+dysplasia
+cell morphology
+mucin
+histological examination
+classification
+chymotrypsin
+immunohistochemical expression
+differential diagnosis
+course
+serine phosphorylation
+other genes
+cell cycle regulators
+breast cancer cell lines
+estrogen receptor
+p27
+subset
+binding sites
+rare mutations
+regulatory elements
+VWS families
+VWS patients
+enhancer element
+cell culture
+enhancer activity
+head and neck
+common syndromic form
+failure
+variation
+cleft lip and palate
+RCC
+metastatic clear cell
+core
+portion
+head
+emergence
+ligament
+transactivation
+receptor antagonist
+serine protease inhibitor
+human skin
+venom
+human keratinocytes
+synaptic
+neonates
+order
+synapses
+glutamate receptors
+primates
+variance
+pathway analysis
+mitochondria
+brain tissue
+spine
+visual cortices
+receptor gene
+genes downstream
+microglia
+occurrence
+translation initiation
+microtubule-associated protein
+amino acids and insulin
+muscle ring finger protein-1
+indices
+membrane proteins
+microtubule
+light chain
+protein synthesis
+ubiquitin
+ribosomal protein
+autophagy
+pig
+part due
+rapid growth
+muscle protein synthesis and degradation
+new insights
+skin cancer
+cells positive
+precise role
+cell markers
+differentiation markers
+tumour growth
+malignant tumors
+sections
+HCCs
+prostate
+chromophobe
+utility
+gamma
+therapeutic value
+intermediates
+amino
+block
+astrocytes
+intervention
+neurotrophic factor
+status epilepticus
+progressive loss
+genome-wide association studies
+dialysis
+leg
+candidate
+power
+regression analysis
+trend
+odds ratio
+aryl hydrocarbon receptor
+phase of the cell cycle
+hepatectomy
+growth arrest
+liver regeneration
+response element
+chromatin immunoprecipitation
+G1 phase
+tumor suppressor protein
+inhibitor p21
+Cdk2 activity
+assessment
+data sets
+smoking
+axon guidance
+regression models
+genetic factors
+dependency
+nicotine
+pancreatic cancer
+SNPs
+none
+portal tract
+mimicry
+microvessels
+obstruction
+ductules
+lung
+status
+colorectal carcinoma
+antitumor immunity
+cell populations
+antitumor effects
+T-box
+parameters
+growth suppression
+tumorigenesis
+potential role
+Protein expression
+curve
+paraffin-embedded
+cancer tissues
+TNM stage
+brain areas
+white matter
+examination
+cerebellum
+organization
+reeler mice
+synaptic connectivity
+hypoxia and acidosis
+protease
+ion
+bicarbonate
+survival factor
+proliferation and survival
+carbon
+cell-cell adhesion
+product
+transmembrane
+tumor cells from hypoxia
+catalytic activity
+cell movement
+extracellular signals
+tumor microenvironment
+tumor phenotype
+Clinical studies
+protons
+acidification
+intracellular signals
+mutagenesis
+intracellular pathways
+intracellular accumulation
+stains
+nodules
+new opportunities
+death
+disability
+Recent research
+progress
+specification
+polarization
+ubiquitin ligases
+developmental processes
+endosomes
+homolog
+ubiquitylation
+Caenorhabditis elegans
+marked increase
+neuroinflammation
+related proteins
+mature neurons
+Rb
+progressive neurodegeneration
+colorectal cancer
+transcriptional activity
+cdc2
+sequence
+glycogen synthase kinase
+phosphorylation levels
+promoter constructs
+proteasomal degradation
+repeat domain-containing
+amino acid residues
+zinc finger
+melanoma cell lines
+checkpoint
+monoclonal antibodies
+immunity
+Eomes
+consequence
+intracellular cytokine
+testis
+peripheral blood
+T cell responses
+kinase inhibitor
+side effects
+tyrosine kinase
+sorafenib
+acquisition
+setting
+scintigraphy
+duration
+breast cancer cells
+resection
+similar phenotypes
+breast cancer metastasis
+source
+adaptation
+vaccine
+cDNA
+growth factor receptor
+T lymphocytes
+vascular endothelial growth factor
+colorectal cancer patients
+leucine zipper
+common variant
+different populations
+haplotypes
+alternative
+control subjects
+subsequent
+gender
+haplotype
+extract
+culture medium
+digestion
+dendritic cells
+real-time polymerase chain reaction
+construction
+gene polymorphisms
+serotonin transporter
+5-HT
+healthy controls
+polymorphisms
+allele
+start
+sites
+collagen type
+CA9 expression
+Intermediate filaments
+matrix components
+fetus
+autistic patient
+association analysis
+Peripheral blood samples
+AD patients
+relation
+explants
+spectrum
+chain
+serum samples
+healthy subjects
+interval
+patients with benign tumors
+serum IL-16
+late stages
+participants
+body weight
+albumin
+carrier
+traits
+introns
+linkage
+termination
+receptor complex
+endocytosis
+epidermal growth factor receptor
+trafficking
+routes
+propagation
+receptor activation
+clefts
+oral squamous cell carcinoma
+binding domain
+tissue samples
+primer
+screen
+tyrosine
+codon
+proliferation and differentiation
+stem cell markers
+culture conditions
+subpopulation
+squamous cell carcinoma
+activator protein
+proteasome-dependent degradation
+negative regulator
+solute carrier family member
+anion
+mucus
+colitis
+absorption
+mRNA and protein expression
+exchange
+reelin and brain-derived neurotrophic
+growth and differentiation
+brain-derived neurotrophic factor
+vehicle
+middle
+precursor cells
+migratory process
+survival rate
+stromal cells
+neuroprotective effects
+neurological disorders
+adult mouse brain
+patterning
+diversity
+olfactory bulb
+progeny
+family transcription factor
+mitotic cyclins
+securin
+ubiquitin-proteasome system
+fold
+spindle
+residues
+many types of cancer
+anchorage
+mitotic exit
+enzyme activity
+embryos
+haploinsufficiency
+heterozygotes
+genetics
+function and regulation
+zinc finger protein
+yeast two-hybrid screen
+family proteins
+leukemia zinc finger
+localization
+protein abundance
+translocation
+sarcolipin
+mol
+soleus
+functional interaction
+min
+apparent affinity
+biopsy
+muscle fibers
+sarco
+plasmic reticulum
+brain structure
+nonsyndromic cleft lip
+palate
+oral clefts
+anomalies
+malformations
+genetic mutations
+aniridia
+nonsense mutation
+suspension
+period
+squamous cell
+carcinogenesis
+gallbladder
+adenocarcinoma
+lymph node metastasis
+homeodomain transcription factor
+adenosine
+projection neurons
+identity
+islet
+dopamine
+mouse brain
+substance P
+basal ganglia
+Genetic fate mapping
+Congenital chloride diarrhea
+mutations in the solute carrier family
+clinical response
+apical membrane
+reelin receptors
+lipoprotein receptor
+neurotransmission
+transcript levels
+reelin mRNA
+immunoprecipitation experiments
+reporter assay
+oxygen
+colony formation
+transcription start site
+hypoxia response
+bp
+priming
+novel role
+expansion
+normal development
+lymphoid tissue
+transcriptional regulator
+infection
+memory T cells
+T-cell differentiation
+cyclin E
+virus
+senescence
+p16
+T cell proliferation
+improvement
+subfamily
+hepatitis
+mRNA expression levels
+heterozygous reeler mice
+behavioral effects
+molecular changes
+nicotine exposure
+intake
+reelin and GAD67
+receptor subunits
+vulnerability
+pre-
+seizures
+synaptic transmission
+blood
+amygdala
+neuronal excitability
+brain slices
+patch-clamp recordings
+receptor type
+electrical stimulation
+pulse
+excitation
+epileptiform activity
+GABAergic neurotransmission
+protein interaction
+sperm binding
+tyrosine phosphorylation
+insect
+functional role
+polyclonal antibodies
+acrosome reaction
+homology
+egg
+maturation
+zona pellucida
+enzymatic activity
+Characterization of the gene
+measurements
+Biochemical analysis
+index
+lysosomal storage disorders
+liver injury
+recruitment
+qRT-PCR
+chemokines
+chemokine
+key regulator
+material
+rs11556218 T
+heterogeneity
+breast carcinoma
+proteins such
+glucose transporter
+tissue microarrays
+proportion
+molecular subtypes
+blood-brain barrier
+cortical neurons
+superoxide dismutase
+protein kinase
+tau hyperphosphorylation
+threonine
+toxicity
+glutathione
+p35
+tail
+elevated plus maze
+anxiety
+neuropsychiatric disorders
+strain
+prenatal
+aggregation
+genetic variation
+persons
+donors
+history
+p value
+cruzi infection
+future studies
+effector function
+cues
+pathogens
+radiotherapy
+prognostic value
+plasma levels
+clinical parameters
+weight
+poor survival
+T stage
+tumor volume
+guidelines
+common feature
+prognostic marker
+cytokine production
+hair follicles
+Korean population
+family history
+technique
+molecular pathways
+changes in the expression
+diagnostic value
+different time points
+significant role
+hepatoma cells
+elongation
+Ectopic expression
+cell-cycle regulation
+sp
+engagement
+ablation
+polymerase
+reversal
+reeler mutation
+reelin absence
+kDa
+cell cycle exit and differentiation
+signal transduction
+cellular proliferation
+incorporation
+modulator
+pivotal role
+differentiation of neuronal precursors
+Coordination of cell cycle exit
+co-expression
+endoplasmic reticulum
+293T cells
+previous findings
+Western blot analysis
+important regulator
+insertion
+inactivation
+pathway components
+results from the studies
+chondrocytes
+cell polarity
+OA
+biological processes
+type I
+anticancer effects
+spectroscopy
+cancer cell proliferation
+conformational change
+cell cycle arrest
+propidium iodide
+apoptotic cell death
+transcription regulation
+p65
+conformation
+caspase-3
+G1 arrest
+cancer types
+normal controls
+sarcoplasmic reticulum
+ventricle
+cAMP
+lower levels
+stem
+proportion of cells
+memory phenotype
+significant effects
+biological functions
+cystatin E
+cell growth inhibition
+antiproliferative effect
+copy
+leak from the SR
+magnitude
+contraction
+pump
+ryanodine receptor
+cardiac muscle
+Chinese population
+hypertension
+rs4778889 T
+-ATPase
+hallmark
+key component
+export
+posttranslational modification
+neural cell adhesion molecule
+tau
+neuronal function
+neurofibrillary tangles
+exercise
+encounter
+evolution
+charge
+simulations
+force
+protein folding
+scale
+pyramidal neurons
+mammalian neocortex
+proliferation control
+differential modulation
+mammals
+polypeptide
+cDNA microarray
+acid transporter
+entity
+protein tyrosine phosphatases
+treatment of patients
+input
+reference
+human genes
+reasons
+mTOR
+neurodevelopment
+present evidence
+mammalian target of rapamycin
+Mb
+brain cortex
+concordance
+inheritance
+cDNA sequence
+Functional analysis
+mature brain
+cell model
+similar effect
+retinoic acid
+tract
+cytoskeleton
+subiculum
+metabolite
+reelin fragment
+molecular layer
+proteolytic processing
+indicator
+neuronal positioning
+band
+cortex
+errors
+neocortex
+adult mice
+motor
+expression of carbonic anhydrase
+duct
+hand
+higher sensitivity
+high specificity
+low sensitivity
+sensitivity and specificity
+combined detection
+platelet-derived growth factor
+human epidermal growth factor receptor
+deprivation
+platelet
+p70
+trajectory
+motor neuron
+soma
+positioning
+neuron migration
+concept
+transcriptional programs
+DNA binding
+cytokine genes
+ovary
+tissue distribution
+T cells and NK
+key molecules
+rainbow trout
+transcription factor gene
+crucian carp
+amino acid sequence
+lymphocytes
+present review
+predisposition
+psychosis
+genetic studies
+reelin deficiency
+erythroid cells
+K562 cells
+genes such
+gene transcription
+skin
+allergic asthma
+methyltransferase
+enhanced expression
+respect
+GEP
+behaviour
+somatostatin
+predictors
+median survival
+Univariate analysis
+affected subjects
+association studies
+chromosome 7q22
+hearing loss
+bone resorption
+damage response
+structure and function
+ligases
+female rats
+alcohol
+AMP
+liquid diet
+DNA damage
+AMP-activated protein kinase
+control rats
+consumption
+proteasome activity
+adult animals
+elevation
+kinase activity
+control diet
+immature neurons
+compensation
+ultrasound
+Early detection
+chloride ion
+imbalance
+twins
+parents
+HE
+colon
+malignant disease
+expression status
+tumour tissue
+distant metastasis at the time
+distant metastases
+patient group
+mitogen-activated protein kinase
+healthy tissue
+helix
+mitogen
+mesoderm
+multivariate analysis
+perineural invasion
+tumor hypoxia
+histological type
+oncogene
+neoplasia
+p16INK4A
+osteosarcoma cells
+adherence
+metal
+bacteria
+protein complexes
+beads
+substrate
+complex formation
+GABAergic neurons
+CR
+GABAergic interneurons
+principal cells
+noradrenaline
+medial prefrontal cortex
+calretinin
+calbindin
+other subtypes
+cognitive function
+cell activation
+mRCC
+composition
+ferret
+mammalian species
+cluster
+mammalian brain
+lateral ventricle
+antibody specific
+phosphorylation site
+Lithium
+quercetin
+histone deacetylase
+mood disorders
+dexamethasone
+neurotransmitter release
+layering
+Dynamic regulation
+action potentials
+action potential-independent
+cerebellar development
+ring
+human breast cancer
+marker expression
+hypoxia marker
+glucose transporter-1
+carbonic anhydrase-IX
+criteria
+carcinoma in situ
+cord blood
+culture system
+strong expression
+surface expression
+length
+receptor regulation
+neurosteroids
+cyclin D1 promoter
+transcriptional repression
+signal pathways
+novel targets
+ganglion cells
+medulla
+cerebellar granule
+myosin heavy chain
+fluorescence in situ hybridization
+creatine kinase
+genome expression
+transcription levels
+gene rearrangement
+polymerase chain reaction assays
+chondrosarcoma
+plate
+platform
+adhesion
+pg
+tumor cell lines
+strength
+human fibroblasts
+solid tumors
+fact
+cancer progression
+various types
+extracellular pH
+APC
+immune response
+adoptive transfer
+eomesodermin expression
+T regulatory cell
+immune system
+survival and differentiation
+selective expression
+player
+supply
+salt
+relaxation
+shift
+membrane protein in lipid bilayers
+recent progress
+chemical
+intracellular proteins
+target proteins
+cellular proteins
+damaged proteins
+basic cellular processes
+cell survival
+brain ischemia
+brain function
+protein degradation pathways
+small-molecule inhibitors
+postmitotic cells
+telencephalon
+caudal ganglionic eminence
+weak expression
+cortical interneurons
+homologue
+chloride channel
+receptor binding
+whole-cell
+gamma-aminobutyric acid
+potency
+recordings
+tonic
+thalamus
+leukaemia
+nuclear bodies
+double-strand DNA breaks
+strand
+positive correlation
+plasma membrane
+coefficient correlation
+endothelium
+p53
+susceptibility locus
+hydration of carbon dioxide
+promising candidates
+phenotype and invasive
+glycolysis
+segments
+nephron
+functional diversity
+active form
+agonists and antagonists
+liver progenitor
+cholangiocytes
+commitment
+neu
+poor outcome
+medicine
+lung diseases
+lobe
+body mass index
+lamination
+confocal microscopy
+colocalization
+calretinin and reelin
+murine model
+center
+melanoma
+percentage
+B-cell lymphomas
+colon cancer
+recurrence
+p21
+reconstitution
+host cells
+dissemination
+replication
+arthritis
+sulfamide
+nitroimidazole
+acidosis
+isozymes
+moiety
+treatment strategies
+nanomolar
+inhibitor type
+hypoxic tumors
+cavity
+active site
+tumor-associated carbonic anhydrase
+ubiquitin-mediated degradation
+epidermal cells
+double mutants
+vesicular glutamate transporter
+opioid
+key feature
+epithelial injury
+RE
+label
+bromodeoxyuridine
+thymidine
+basal cells
+cell size
+reagents
+3D culture of colonic crypts
+epidermal growth factor
+N-methyl-D-aspartate receptors
+gyrus
+non-small cell lung cancer patients
+tumor markers
+plasma
+enzyme-linked immunosorbent assay
+blood samples
+healthy control subjects
+blood vessels
+highest density
+monolayer
+edge
+tumor cell survival
+focal adhesions
+serum IL-16 levels
+risk in a Chinese population
+T allele
+DNA sequences
+nasopharyngeal carcinoma
+stabilization
+endothelial cells
+SR
+site-directed mutagenesis
+carbon dioxide and bicarbonate
+CAs
+usefulness
+epilepsy
+potent inhibitor
+glaucoma
+human breast cancer cells
+similarity
+alignment
+pocket
+gene promoter
+messenger
+situ hybridization analysis
+concentration-dependent manner
+concentration dependent
+multiple genes
+important roles
+disease-free survival
+adhesion molecule
+cholangiocarcinoma
+hypertrophy
+hypertensive rats
+blood pressure
+heart disease
+lipid
+cardiomyocyte
+malignant transformation
+lower concentrations
+ligase activity
+positive regulator
+possible functions
+mechanisms responsible
+expression of keratin
+survival time
+hASH1 expression
+tonic inhibition
+allopregnanolone
+receptor responses
+cognition
+glutamate
+rectification
+single dose
+acid type
+nM
+young mice
+clinicopathologic features
+pRB
+normal cerebellar development
+neuronal precursors
+transcriptional repressor
+normal human fibroblasts
+development of the cerebral cortex
+tumor suppressor gene
+anticancer activity
+morphological changes
+cow
+early development
+positive allosteric modulator
+low-affinity
+membrane potential
+direct activation
+network excitability
+pharmacology
+higher concentrations
+receptors in the brain
+tonic conductance
+extrasynaptic receptors
+sleep
+duct cells
+channel
+binding activity
+fusion protein
+specific binding
+key factors
+p53 and p21
+large amounts
+cell apoptosis
+DNA repair
+cellular compartment
+critical regulator
+spine density
+inhibitory neurons
+synaptic function
+mouse line
+hypoxic conditions
+soluble form
+selectivity
+clones
+melanoma cells
+gene expression profiles
+brain sections
+dopaminergic
+downstream targets
+expression analysis
+hormone receptors
+ubiquitin-conjugating enzyme
+protein turnover
+possible association
+CYFRA
+head and neck squamous
+diagnostic accuracy
+neck squamous cell carcinoma
+receiver
+characteristic curve
+accuracy
+clinical findings
+receptor antagonist bicuculline
+pyridin-3-ol
+important implications
+long-term potentiation
+hippocampal slices
+field potentials
+water maze
+pain
+phosphoinositide 3-kinase
+specific inhibitors
+thymidine incorporation
+other cell lines
+reverse transcription-PCR
+cell cycle inhibitor
+infiltration
+effector molecules
+transplants
+transplantation
+redox
+recognition sites
+frog
+tube
+nuclear grade
+microvascular invasion
+molecular biology
+non-metastatic clear cell renal cell carcinoma
+homologous recombination
+root
+DNA polymerase
+cell division
+replication factor
+marker genes
+loading
+DNA replication
+abscisic acid
+endoreduplication
+glucose
+cell cycle genes
+ethanol
+receptor subunit expression
+ethanol action
+arachidonic acid
+phospholipase
+ethanol exposure
+Age-related differences
+several cell types
+expression and outcome
+luciferase activity
+compound heterozygous mutations
+human genome
+kb deletion
+duplication
+muscle tissue
+muscle atrophy
+neuropathy
+demyelination
+tooth
+epaxial somite
+functional domains
+homeodomain
+DNA templates
+fluorescence resonance energy
+hydrolysis
+dissociation
+structural studies
+rearrangement
+genetic defect
+genetic heterogeneity
+point mutation
+cocaine
+mouse embryo
+fibroblast growth factor
+different pattern
+survival signals
+important functions
+molecular mass
+vector
+oocyte development
+breast cancer cell proliferation
+bipolar disorder
+new avenues
+PTC
+papillary thyroid carcinoma
+galectin-3
+cut-off value
+cut-off
+area under the curve
+cytology
+estradiol
+mode of action
+axon terminals
+spinal cord
+genetic evidence
+afferents
+invasion and metastasis
+physiological function
+vasculature
+hepatic progenitor cells
+neuron specific enolase
+quantitative analysis
+Ki67 expression
+kinase activation
+receptor expression
+cellular apoptosis
+tumor necrosis factor-alpha
+mu
+hypothalamus
+glia
+effector T cells
+milk
+taurine
+pair
+matrix cells
+matriptase activation
+outer root sheath
+distribution pattern
+inner root sheath
+hepatocyte growth factor
+proteolytic activity
+genetic disorder
+bulb
+spots
+protein phosphatase
+crucial roles
+regulatory subunit
+tumor specific
+skin cancer cells
+drug resistance
+sequence similarity
+integrin
+T cell activation
+functional significance
+divalent metal transporter
+iron
+matter
+inhalation
+crystal structure
+lumen
+enzyme family
+molecular events
+cassette
+disease relapse
+recurrent disease
+rapamycin
+rat brain
+membrane depolarization
+efflux
+synaptosomes
+kainate receptor
+withdrawal
+rho
+coupling
+mRNA and protein
+treatment regimens
+tumour stage
+hippocampal neurons
+increase in levels
+gonad
+element-binding protein
+subunit protein
+testosterone
+steroid sulfatase
+cytosol
+glial scaffold
+radial glia
+adaptor
+exit
+intracellular domain
+basement membrane
+conditions such
+pH optimum
+formylglycine
+sulfate esters
+sulfatase activity
+human cells
+sulfated glycosaminoglycans
+sequence identity
+ACh
+modulatory effects
+cortical GABAergic interneurons
+basal forebrain
+cell responses
+regulatory factor
+regulatory function
+different species
+splice variants
+cell adhesion molecule
+extracellular matrix molecule
+ubiquitin protein ligase
+nuclear localization
+max
+muscle mass
+myostatin
+cyclin D1 levels
+susceptibility genes
+common genetic variant
+hospital
+normal control group
+ethyl
+splice sites
+C-terminal region
+cortical lamination
+truncation
+distinct mechanisms
+proliferation and apoptosis
+distinct functions
+little effect
+ventricular zone
+protein domain
+microarrays
+consecutive patients
+cell growth proliferation
+GTPases
+different classes
+inducer
+PTEN
+muscle wasting
+improvement in exercise performance
+myotube size
+myotubes
+tau phosphorylation
+normoxic controls
+cortical development
+total number
+knock-in mice
+inhibitor flavopiridol
+glioma cells
+cdk inhibitors
+arrest
+key protein
+nude mice
+model system
+critical periods
+early postnatal life
+glycoprotein reelin
+insight into the mechanism
+matrix metalloproteinase
+expression and distribution
+surgical resection
+expression intensity
+gastric cancer cells
+cell transplantation
+goat
+cell strains
+surface epithelium
+cell-cell interaction
+CR cells
+coincidence
+immunophenotype
+mean age of the patients
+bioinformatic analysis
+binding motif
+conservation
+organic cation transporter
+morphine
+mobility
+cleft palate
+E-box
+retardation
+detachment
+transfected cells
+cell motility
+liver cancer
+cell cycle proteins
+water maze test
+regulation of reelin
+independent mechanisms
+reeler
+receptor sensitivity
+probe
+bicuculline
+amiloride
+probability
+neurotransmitter receptors
+cultured rat hippocampal neurons
+Postsynaptic potentials
+ion channel
+excitability
+excitatory postsynaptic potentials
+Mutations in the interferon regulatory factor
+prolonged exposure
+vitro cell
+effect of pH
+growth rate
+osteosarcoma
+additive effect
+tumor proliferation
+clinical diagnosis
+expression and regulation
+Dual role
+relapse
+CK19 expression
+serum concentrations
+significant predictors
+high serum
+one-step nucleic acid amplification
+dissection
+breast cancer patients
+lymph node
+SLNs
+micrometastasis
+axillary lymph nodes
+defense
+26S proteasome
+Chinese wild grapevine
+RING domain
+necator-induced RING finger protein
+RhBG
+later stages
+ammonia
+specific cells
+embryogenesis
+critical survival factor
+cytoplasm and the nucleus
+trophoblast cells
+micrometastases
+Molecular analysis
+histopathology
+sentinel lymph nodes
+habitats
+divergence
+differential regulation
+oxidation
+corals
+recent evidence
+anion exchangers
+host
+stress response genes
+temperature
+share
+cell autonomous
+pro-IL-16
+plasma cells
+cell invasion
+reliable surrogate marker
+new therapeutic targets
+cord
+BMP
+racemase
+lesser extent
+gene-environment interactions
+displacement
+placement
+prognostic implications
+lung adenocarcinoma
+pretreatment serum
+serum markers
+performance status
+hazard ratio
+scar
+corneas
+solution
+keratin-19
+ubiquitin ligase activity
+stage of the disease
+monocytes
+dose-dependent manner
+bicuculline and picrotoxin
+agonist muscimol
+yohimbine
+receptor agonist
+allodynia
+cytoplasmic domain
+structural changes
+progesterone receptor
+lymph node status
+acetylcholine
+-K
+steady state
+phosphatase
+cotransporter
+liver transplantation
+supernatants
+vitro studies
+tumor regression
+cost
+protection
+conjunctiva
+physiological conditions
+interferon
+healthy individuals
+pathologists
+ductal carcinoma
+hypoxic tumor regions
+tumor sections
+cell surface receptors
+benign thyroid nodules
+tissue sections
+positive immunostaining
+piglets
+prostate cancer cells
+p300
+p107 protein
+p130
+cyclin-dependent kinase inhibitor p27
+fragment antigen
+immunoassay
+carcinoembryonic antigen
+NSE
+cancer antigen
+irradiation
+important role in pH regulation
+radiosensitivity
+extracellular acidification
+cell carcinoma
+radiation
+volunteers
+resonance imaging
+decline
+type B
+clinical relevance
+girls
+sister
+gene results
+clinical value
+lung cancer
+initial diagnosis
+lung cancer patients
+negative predictive value
+blood serum
+maximum
+positive rate
+positive predictive values
+retinoblastoma protein
+glioblastoma cells
+activation of p53
+brain tumors
+disease pathogenesis
+T-cell receptor
+radial glial cells
+cell positioning
+granule neurons
+experimental model
+time course
+clinical data
+cisplatin
+selective inhibitor
+inhibitory activity
+rare cases
+glucagon
+channel currents
+pentobarbital
+tonic current
+antagonist SR
+patch-clamp technique
+percent
+Enzyme replacement therapy
+lysosomal storage disease
+perception
+handling
+medication
+validation
+base
+cellular growth
+chemotaxis
+important determinants
+other members
+pyramidal cells
+globus pallidus
+layer I
+apical dendrites
+zona
+neocortical layer
+inflammatory bowel disease
+initiation
+patients with cervical cancer
+cervical cancer
+healthy donors
+lymph node involvement
+bone metastasis
+useful information
+mammalian cells
+tyrosine residue
+protein content
+starvation
+muscle protein
+expression in tumors
+inhibitory interneurons
+heterogeneous populations
+role in the regulation
+molecular properties
+NPY
+progressive disease
+samples from patients
+evidence of disease
+associated proteins
+papilla
+human hair follicles
+scalp
+hair
+collaterals
+mental retardation
+patients with X-linked ichthyosis
+contiguous gene deletion
+s6k
+furosemide
+muscimol
+bone loss
+bumetanide
+latency
+neuronal activity
+iron transport
+iron homeostasis
+ferroportin
+healthy volunteers
+iron uptake
+metastatic lymph node
+extracellular signal-regulated kinase
+cell cycle entry
+sister chromatids
+metaphase
+serum values
+enzyme immunoassay
+coefficient
+carbohydrate antigen
+direct effect
+vehicle-treated controls
+Adult hippocampal neurogenesis
+bladder cancer
+high-risk patients
+bladder carcinoma
+cell cycle regulatory proteins
+negative regulation
+superfamily
+human disease
+human brain
+cells of various types
+ER-negative breast cancer cells
+micromolar concentrations
+airway inflammation
+differentiation program
+asthma
+rat pups
+advanced disease
+daughter
+operation
+father
+spasms
+female patients
+Sequence variations
+hyperplasia
+short hairpin
+migration assay
+potential therapeutic target
+mammalian target of rapamycin pathway
+stress response
+first postnatal week
+embryonic day
+subplate
+leptin
+other markers
+type I collagen
+efficacy of therapy
+cytokeratin fragment
+non-small cell lung carcinoma
+serum tumour markers
+specificity and accuracy
+differential responses
+reeler cortex
+intermediate zone
+cortical wall
+fibroblast-like cells
+notion
+velocity
+important factor
+direct inhibition
+expression of growth
+PC-3 cells
+biphasic effect
+chain reaction analysis
+PC
+necrosis and apoptosis
+gene expression levels
+implantation
+gonad and liver
+gilthead seabream
+sulfatase
+key mediator
+new role
+timing
+chain reaction assay
+heterozygous mutation
+gene responsible
+other patients
+Chinese family
+cellular mechanisms
+muscle fibres
+expression of myostatin
+immobility
+mean age
+skeletal muscle mass
+molecular regulation
+increase in the number
+soft agar
+polyps
+surfactant
+allergic rhinitis
+cases of allergic rhinitis
+eosinophils
+binding assays
+candidate molecules
+nucleolus
+5-HT2 receptor
+postnatal development
+specific role
+fibres
+development and disease
+small gene family
+therapeutic intervention
+molecular interactions
+WORDS
+sedation
+analgesia
+actin cytoskeleton
+membrane localization
+pits
+lower lip
+scm
+similar defects
+prevalence
+endoderm
+virus infection
+different forms
+oligodendrocytes
+disease patients
+clinical outcome in patients
+matrix glycoprotein
+gold standard
+autoradiography
+microscopic analysis
+high temperature
+mAb
+phosphorylation state
+cell cycle-dependent manner
+coli
+mouse strains
+mucopolysaccharidosis type
+manifestations
+yeast
+mismatch repair
+wasp
+detoxification
+postnatal neurogenesis
+adult-born neurons
+dendritic development
+peripheral blood from the patients
+epithelial markers
+world
+Ki-67 index
+instability
+hTERT
+c-kit
+Ectopic expression of reelin
+external granule cell layer
+neurite outgrowth
+rat cerebellum
+final destination
+insecticide
+firing
+burst
+layer neurons
+delta-
+information processing
+receptor delta subunit
+affected patients
+PFS
+poor response
+picture
+photoreceptor outer segments
+higher number
+lifespan
+control cells
+bile ducts
+decay
+human embryonic kidney
+papillary carcinoma
+midbrain
+fertilization
+predictive value
+isozyme
+kb
+HIV-1 infection
+Cdk9
+infected cells
+sera
+growth retardation
+nerve growth factor
+cell cycle exit
+IPSCs
+mesenchymal stem cells
+soluble factors
+weeks of age
+C-terminal domain
+potential marker
+cerebrospinal fluid
+human cortex
+homeobox transcription factors
+cellular senescence
+tumor suppressor p53
+redistribution
+inflammatory cytokines such
+activity of p53
+senescent cells
+distraction
+transcriptase-polymerase chain reaction
+stomach
+B-cell
+imaging techniques
+partial agonists
+new light
+native receptors
+zolpidem
+structural determinants
+count
+stoichiometry
+purification
+liver metastases
+replicative senescence
+metabotropic glutamate receptors
+selective antagonist
+receptor ligands
+mGluRs
+anticonvulsant effect
+receptor modulators
+laevis oocytes
+dependence
+voltage clamp
+chloride currents
+ones
+mouse oocytes
+blastocyst stage
+layer V pyramidal neurons
+whole-cell patch clamp
+GABAergic transmission
+pathophysiology of schizophrenia
+receptor channels
+whole-cell patch-clamp recordings
+miniature inhibitory postsynaptic currents
+channel blocker
+significant positive correlation
+curve analysis
+PE
+troponin
+budding yeast
+cerevisiae
+hypersensitivity
+nucleotide exchange
+exchange factor
+potential target
+stem cell line
+glioblastoma
+radiation therapy
+striatal output pathways
+acetylation
+extracellular matrix protein reelin
+common type
+epithelial proliferation
+trophectoderm
+transfection
+nerve terminals
+cirrhosis
+serum of patients
+tissue of breast cancer patients
+peripheral blood and tissue
+mRNA in peripheral blood
+Bacillus
+p21 expression
+cross-linking
+endpoint
+carcinoma cell lines
+integrins
+growth factor beta
+constructs
+repair protein
+acute effects
+insulin-like growth factor-1
+green fluorescent protein
+diapause
+deletion mutants
+inhibitory postsynaptic currents
+decay time
+discharges
+dentate gyrus granule cells
+amplitude
+epileptic rats
+colony
+clinicians
+surgical treatment
+management of patients
+node
+cytokeratin expression
+cAMP levels
+cell mass
+glucagon-like peptide-1
+islet cells
+amide
+yeast two-hybrid
+chromatin remodeling
+inner plexiform layer
+antisense
+single-stranded DNA
+elegans
+tumor location
+independent prognostic marker
+proportional hazards regression models
+tumour necrosis
+food intake
+GABAergic inhibition
+environmental retuning
+GABAergic input
+medial shell
+rat nucleus accumbens
+cervix
+collection
+estrogen
+nodal status
+response genes
+clinical practice
+training
+detection rate
+hOCT3
+proximal tubule
+polyubiquitylation
+ligase complex
+sumoylation
+cell fractions
+depolarization
+caspase-3 activation
+inositol
+control mice
+genesis
+kDa protein
+enzyme inhibitors
+library
+side chain
+protease inhibitor
+brainstem
+earlier findings
+receptor subunit
+benign effusions
+malignant pleural mesothelioma
+kinase inhibitor p21
+cyclin kinase inhibitor
+different stages
+DTC
+exit from mitosis
+anaphase
+cyclin B
+fission yeast
+ubiquitination pathway
+anaphase-promoting complex
+prophase
+conjugation
+distinct patterns
+primary cultures
+cellular origin
+epithelial cell adhesion molecule
+cell origin
+oral epithelium
+tumor nests
+benzodiazepine site
+benzodiazepine
+nAChR
+telomerase
+several inflammatory diseases
+hypothalamic expression
+rheumatoid arthritis
+activator receptor
+plasma samples
+Diagnostic significance
+suPAR levels
+expression system
+expression vector
+principle
+orofacial development
+popliteal pterygium syndromes
+affected members
+Mutation analysis
+trios
+evidence of linkage
+linkage analysis
+plasma membrane proteins
+cGMP
+human plasma
+transmembrane domain
+marginal zone
+phosphorylates
+granule cell dispersion
+kainate
+sampling
+early phase
+late phase
+neoplastic cells
+mesothelioma
+chymotrypsin inhibitor
+proteinase
+trypsin
+plasmin
+potassium channels
+ionotropic glutamate receptor
+other regions
+important role in the development
+other subunits
+inward currents
+granule cell layer
+total thyroidectomy
+male patients
+neck
+mouse development
+prenatal immune challenge
+extensor digitorum longus
+old mice
+gastrocnemius muscle
+control mechanisms
+central role
+p70S6K
+detection of lymph node metastases
+lymph node negative
+labor
+regional lymph node metastasis
+expression and localization
+heart muscle
+structural features
+rabbit
+dissociation constant
+glial cells
+up-regulated genes
+systemic treatment
+scans
+tumor marker concentrations
+non-cell-autonomous roles
+eminence
+development of the tongue
+phasic inhibition
+extracellular space
+human cancer cells
+natural ligand
+normal livers
+blot
+Double immunostaining
+sIPSCs
+rat hippocampal slices
+receptor agonist baclofen
+receptor function
+sperm
+olomoucine
+vitro experiments
+matriptase
+trypsin inhibitor
+serine protease
+activator inhibitor-1
+mouse embryo fibroblasts
+cAMP-dependent pathway
+protein kinase inhibitor
+Col10a1 expression in chondrocytes
+increment
+possible involvement
+untranslated region
+novel regulator
+module
+squamous cell carcinoma antigen
+cytokeratin-19
+tumor marker levels
+insulin-like growth factor-I
+corticotropin-releasing factor
+specific effect
+arginase activity
+protein accumulation
+hypoxic environment
+bladder cancer cells
+vitro effects
+heterogeneous disorder
+combination therapies
+inhibition of cell proliferation
+tissue culture
+lobules
+malignant pleural effusions
+benign PEs
+Optimal cutoff points
+diagnostic sensitivity
+xenograft model
+muscle atrophy F-box protein
+pathway genes
+chondroitin sulfate
+different mutations
+cytokeratin marker
+thyroid hormone
+remission
+meiosis
+recombination
+chromosome segregation
+mammalian cerebral cortex
+T-cell development
+protein profiles
+treatment in mice
+hypoxic cancers
+tissues and cells
+human tissues
+normal brain development
+separation
+locomotion
+cortex and hippocampus
+ligand-gated ion channels
+subunit combinations
+nanomolar concentrations
+receptor combinations
+mV
+channel open
+reversible manner
+configuration
+phorbol ester
+turtle
+Reliable markers
+iron metabolism
+anticancer agent
+anhydrase
+autoantibodies
+kidney disease
+principal neurons
+phase transition
+growth inhibition
+genes with differential expression
+safety
+human fetal skin development
+basal layer
+epidermal stem cells
+Skin samples
+epidermal layers
+sweat glands
+fetal epidermis
+idursulfase
+brother
+pseudogene
+general anesthetics
+receptor-associated protein
+alanine
+sequence homology
+metastatic breast cancer patients
+heparin
+early breast cancer
+outcome in patients
+cells through the expression
+spermatozoa
+direct interaction
+patients with pleural effusion
+benign pleural effusion
+several proteins
+patients with benign lung disease
+diagnosis of lung cancer
+sodium channels
+urine
+pimonidazole
+Ribonucleic acid expression
+Clear cell papillary cystadenocarcinoma of the epididymis
+present case
+intracellular stores
+baclofen
+mGluR
+virus replication
+phosphatidylinositol 3-kinase
+sugar
+dl
+lipoprotein
+recent data
+little information
+plasma kallikrein
+textilinin-1
+sperm bind
+N-terminal domain
+sperm receptors
+mouse egg
+polyspermy
+overexpression of the hypoxia-inducible factor
+immunohistochemical methods
+nanofibers
+bile duct endothelial cells
+zinc finger domain
+proximal promoter
+DNA binding activity
+p53 acetylation
+tumor suppression
+regimens
+patients with early breast cancer
+adjuvant chemotherapy
+microvessel density
+MVD
+Cerebellar abnormalities
+adapter protein
+antagonism
+PBMCs
+resting membrane potential
+reversal potential
+activity levels
+correlation analysis
+hematological parameters
+healthy patients
+ammonia transport
+CNT
+outer medullary collecting ducts
+malignant progression
+disease recurrence
+different times
+degradation pathways
+tetratricopeptide repeat
+6-OHDA toxicity
+early postnatal development
+input resistance
+cerebellar granule cells
+receptor family
+-2Cl
+meningiomas
+arachnoid granulations
+dura
+bronchoalveolar lavage fluid
+disease severity
+cell division cycle
+RING finger domain-containing protein
+viral replication
+blood cells
+sulfate proteoglycans
+propofol
+channel lumen
+lobular endocervical glandular hyperplasia
+prenatal exposure
+piriform cortex
+mRNA markers
+positive lymph nodes
+direct evidence
+truncated form
+lung carcinoma
+polymorphism and autism
+mammalian eggs
+hemoglobin
+anti-apoptotic protein
+bone morphogenetic protein
+sciatic nerve
+thiazide-sensitive
+magnesium
+mmol
+heterozygous carriers
+muscle weakness
+spite
+cell transition
+cyclin D1 mRNA
+cyclin D1 protein expression
+phase progression
+IGF-1 treatment
+pregabalin
+calcium channels
+gabapentin
+exon-intron boundaries
+cells in the marginal zone
+heterotopia
+good correlation
+athymic mice
+useful markers
+glycine receptor
+active cyclin
+mitotic entry
+epitopes
+checkpoint function
+zinc finger motif
+neuronal migration and positioning
+blood and tissue samples
+patients positive
+histological subtypes
+kidney cancer
+ccRCC patients
+autoantigen
+atopic dermatitis
+malignant group
+pleural fluid
+tuberculous pleural effusions
+subunit gene
+hepatocyte growth factor activator inhibitor type
+protease activity
+urea
+antitumor activity
+combination with oxaliplatin
+OX
+rat liver
+tumor cell proliferation
+imprinting
+clues
+BWS
+follow-up period
+cysts
+lining
+Multilocular cystic renal cell carcinoma
+alpha-methylacyl-CoA racemase
+99m
+X-chromosome inactivation
+clinical picture
+acetazolamide
+definition
+patients without malignancy
+benign lesions
+atrial fibrillation
+gremlin
+B16F10 melanoma cells
+placebo
+transmitter
+evolutionary relationships
+protein present
+anesthetics
+allosteric modulation
+phenobarbital
+barbiturate
+methionine
+glutamate release
+Possible explanations
+high myopia
+strong association
+satellite cells
+cell density
+years of age
+neurons during development
+mammalian cortex
+inhibition results
+hypoxia-inducible protein
+low groups
+median value
+resistance exercise
+cell activation and proliferation
+sex hormone deficiency
+GP
+matrix protein
+small RING finger protein
+X-ray crystallography
+cancer therapeutics
+control animals
+normal levels
+Activation of protein kinase
+particular importance
+iron deficiency
+iron status
+iron transporter
+iron absorption
+transferrin receptor
+transferrin saturation
+hypoxic cells
+signal transducer
+pericardial fluid
+malignant pericarditis
+patients with malignant pericarditis
+clinical presentation
+histological examination of a pericardial specimen
+echocardiographic evidence of cardiac tamponade
+patients with non-malignant pericarditis
+cytological examination of the pericardial fluid
+effusion
+chest
+Dab1 tyrosine phosphorylation
+subcultures
+self-assembly approach
+dimethyl sulfoxide
+cryopreservation
+high frequency
+molecular modeling
+p53 pathway
+synergistic effect
+neuronal apoptosis
+role in cell cycle
+immunohistochemical findings
+thin fibrous septa
+GD
+viral oncogenes
+novel gene
+ductular reaction
+image analysis
+metaplasia
+blastocyst
+inner cell mass
+Fluorescent dyes
+liver tissue
+protein localization
+ubiquitous expression
+rat retina
+photoreceptor cells
+mouse tissues
+treatment outcome
+forskolin
+intracellular calcium
+dermis
+node positive
+single layer
+cullins
+RING finger domain
+cultured neurons
+basal layer cells
+negative correlation
+stimulatory effect
+adenylyl cyclase
+Similarities and differences
+rest
+present studies
+t test
+mouse xenograft
+unique function
+muscle relaxation
+muscle contraction
+hypermethylation
+times higher
+transdifferentiation
+mature hepatocytes
+chronic hepatitis
+Elevated serum levels
+squamous cell lung cancer
+serum and pleural
+telomerase activity
+pleural effusion than serum
+benign lung diseases
+levels of cytokines
+patients with schizophrenia
+cortical neuronal migration
+cortical layering
+psoriasis
+several types
+ICD
+invasive breast cancer
+poor survival in patients
+prognostic marker in patients
+extrusion
+gene transcripts
+ester
+stratum lacunosum-moleculare
+group I
+activity patterns
+tongue
+reelin signal
+insulin-producing cells
+stable disease
+Paraneoplastic neurological syndromes
+tumor samples
+spike
+membrane currents
+environmental stimuli
+preterm labor
+airway
+tumor necrosis factor receptor
+tick
+electrophysiological properties
+compensatory mechanism
+glycine
+normal subjects
+terminal differentiation
+important mechanisms
+surveillance
+mitotic spindle
+N-terminal region
+nociception
+reeler and dab1
+reeler mutant
+horn
+benign group
+combined use
+Cultures of normal human melanocytes
+transcription and translation
+histological grade
+sodium excretion
+osteoblasts
+antiproliferative action
+IGF-1 expression
+pallium
+methodology
+reelin deficit
+regulation of neuronal migration
+inhibitor complexes
+microglial cells
+osteogenic differentiation
+mesenchymal cells
+transport proteins
+liver cells
+bone marrow mononuclear cells
+hepatocyte-like cells
+sunitinib
+strychnine
+recombinant receptors
+diazepam
+lung tumor
+cell lung cancer
+mithramycin
+centrosome
+oscillations
+centriole
+interphase
+pharmacological intervention
+major psychiatric disorders
+methylation status
+DNA demethylation
+epithelial components
+suprabasal layers
+similar patterns
+epithelial phenotype
+metastatic colorectal cancer
+urinary bladder cancer
+urine samples
+combination of these markers
+multidrug resistance
+human cell lines
+cell cycle and transcriptional
+pathway activation
+clinical significance of cytokeratin
+diagnosis of nasopharyngeal carcinoma
+detection sensitivity
+non-SLN metastases
+basal cell carcinoma
+growth response
+association tests
+p53 protein
+chronic treatment
+co-incubation
+senescence-like growth arrest
+sporadic patients
+classic aniridia
+ophthalmic examinations
+nephrectomy
+minimal change PBC
+histologic features
+export signal
+legumain activity
+cathepsin B
+prolegumain
+neuroblastoma cells
+disease outcome
+hemizona assay
+patients with type
+transgene
+Cytokeratin-19 fragments
+smokers
+patients with squamous cell carcinoma
+tumor necrosis factor-related apoptosis-inducing ligand
+cyclin degradation
+CDK1 inactivation
+neurodegeneration
+nervous system development
+neural cells
+autosomal recessive lysosomal storage disease
+strong evidence
+preoperative biopsies
+ezrin and glucose transporter-1
+rats and mice
+manuscript
+open reading frame
+inhibitor domain
+statistical significance
+neurones
+cardiac myocytes
+gene regulation
+proteinase inhibitor
+polymerase activities
+additional genes
+mammalian brain development
+human immunodeficiency virus
+urine osmolality
+polyuria
+SCC components
+adenocarcinoma components
+superficial layers
+squamous metaplasia
+metastasis potential
+T cells in combination
+costimulation
+concordance rate
+tumor cells in patients
+breast fibroadenoma
+negative patients
+methyl ester
+Caco-2 cells
+preplate
+pioneer neurons
+pial surface
+signalosome
+cell cycle-related genes
+spindle poles
+bromodeoxyuridine incorporation
+mitochondrial membrane potential
+selective toxicity
+novel class
+cytochrome c release
+zona proteins
+zonae pellucidae
+curcumin
+Amyloid deposition and advanced
+Clinical usefulness
+corticosteroids
+bronchoalveolar lavage
+reporter construct
+Biodistribution studies
+role in this process
+gephyrin
+second-generation curcumin analog
+drug treatment
+immunoelectron microscopy
+nucleic acids
+Diagnostic use
+cytokinesis
+accumulation of cells
+cystatin
+nu mice
+transmembrane serine protease
+normal lung tissues
+blockage
+entry into mitosis
+checkpoint kinase
+colon cancer patients
+severe phenotype
+same mutation
+recoverin
+transfected mammalian cells
+peripheral blood of breast cancer patients
+progression of breast cancer
+competitive antagonists
+pharmacological profile
+picrotoxinin
+pore
+major sites
+oestrogen receptor
+benign pulmonary disease
+early disease
+neurogliaform cells
+cell-cell junctions
+hyperphosphorylation
+GABARs
+subunit interface
+receptor populations
+concentration-response curve
+growth regulation
+squamous epithelium
+competence
+vitro maturation
+membrane integrity
+afferent fibers
+horn neurons
+microglia activation
+Organotypic culture
+loss of spatial regulation
+dermis-based organotypic cultures
+vitro assays
+tumor burden
+oocyte maturation
+unaffected controls
+patients with head
+monocyte chemotactic protein-1
+patients with metastasis
+patients with esophageal squamous cell carcinoma
+cell compartment
+gene and protein levels
+root ganglion
+Developmental stage
+finger domain
+essential components
+tissue polypeptide antigen
+tissue polypeptide-specific antigen
+healthy controls and patients
+myofibrils
+patients with small cell lung cancer
+RP
+Dab1 downstream effectors
+facilitation
+substantial proportion
+Identification and characterization
+inhibition of apoptosis
+Cl-
+pancreatic cancer cells
+cell cycle control
+Inhibitor kappa
+psychiatric patients
+Detection of cytokeratin
+cervical cancer cells
+fibroblast cell line
+ganglion cell layer
+needle biopsy
+prognostic information
+rat cerebral cortex
+receptor-mediated inhibition
+bFGF
+cell proliferation marker
+subretinal grafts
+GABA-evoked currents
+decay time constants
+whole-cell recording
+mIPSCs
+clinical symptoms
+levels in patients
+treatment monitoring
+cotransfection
+physical association
+follicular variant of papillary carcinoma
+cortical dysplasia
+phenotype correlations
+efficient method
+healthy participants
+galectin-3 and HBME-1
+benign tumors
+p21 upstream promoter
+nuclear accumulation
+MAbs
+cell nucleus
+GD fibroblasts
+serine proteinase
+Crystallization
+crystal
+hemoglobin levels
+activation of immune system
+DNA viruses
+receptor currents
+synaptic currents
+slice preparation
+inverse agonist
+differential display
+mononuclear cells
+cytotoxic activity
+relative risk
+p107
+CA1 pyramidal neurons
+postsynaptic currents
+rat hippocampal neurons
+cerebellar granule neurons
+carbohydrate
+normal T cell
+T helper cell
+mouse sperm
+antiserum
+mouse zona pellucida
+sodium butyrate
+nucleosomes
+intact cells
+utilization
+localization signal
+yeast two-hybrid system
+assay kit
+opioids
+transmitter release
+small proportion
+dose-response
+twofold increase
+basic fibroblast growth factor
+group B
+various functions
+hr of hyponatremia
+control values
+adult neurons
+Intracellular chloride concentration
+aromatase
+muscle differentiation
+muscle development
+stores
+organelle
+sustained increase
+situ hybridization and immunohistochemistry
+dermal papillary cells
+kinase family
+cardiogenesis
+transient expression
+essential step
+cancer metastasis
+growth factor-binding
+MCF-7 cells
+cell cycle distribution
+G1 cell cycle arrest
+various human cell lines
+oval cells
+cholangiocyte markers
+gene variants
+neurotransmitter systems
+malignant effusions
+head and neck cancer
+5-year survival rate
+cell cycle transitions
+days after surgery
+dopamine transporter
+group differences
+receptor subunit levels
+role of reelin deficiency
+monitoring of patients
+tau protein
+central canal
+receptor selectivity
+such effects
+norepinephrine
+pharmacological effects
+SCLC patients
+SCLC
+lung cancer group
+hypoxia marker carbonic anhydrase
+serum marker levels
+cell cycle activity
+new genes
+endometrium
+Western analysis
+case report
+castration
+opioid antagonists
+naltrindole
+laterality defects
+cholestasis
+pocket proteins
+quiescent cells
+stable transfection
+uPA
+gut
+EMT tumors
+replacement therapy
+Congenital chloride diarrhoea
+autosomal recessive disease
+cell velocity
+changes in serum
+leaves
+dopamine release
+nerve regeneration
+mouse liver
+patients with advanced malignant biliary tract obstruction
+valuable marker
+disease course
+cell wall protein
+mitotic kinase
+Regulation of microtubule dynamics
+tangential migration
+distinct types
+rl
+days of gestation
+cell-rich plasma samples
+diabetic nephropathy
+p21 induction
+coactivation
+possible implication
+fungi
+lymphoplasmacytic rhinitis
+urine concentration
+sequence analysis
+bovine trypsin
+serine proteinase inhibitor
+glutamate-induced glutamate release from cultured astrocytes
+glutamate uptake
+glutamate transporters
+-Rs
+hyperpolarization
+selective activation
+different sites
+disease outcome in rectal cancer
+principal component
+low number
+polymerase cleavage
+dose-dependent decrease
+cancer cell migration and invasion
+progenitor cell marker
+receptor stimulation
+trace elements
+sensitive marker
+cortical hem
+synovial fibroblasts
+decarboxylase
+synovial tissue
+recycling of polyamines
+plant development
+amacrine and ganglion cells
+splice forms
+Common fragile sites
+membrane transport
+kinase inhibition
+antitumor efficacy
+reticulum
+detection of lung cancer
+most cases
+neuron activity
+expression of cytokeratins
+benzodiazepine receptor
+suppressor gene
+laboratory tests
+buds
+start site
+finger protein
+cell growth regulation
+sodium transporters
+samples t tests
+reading frame
+novel method
+early diagnosis of lung cancer
+suspicious nodules in the lung
+full-length protein
+surgical procedures
+glycosaminoglycans
+first time the expression
+gene therapy
+translation initiation factor
+beta-catenin
+same pattern
+inhibition effect
+genistein
+wild-type p53
+clinical stage
+malignant phenotype
+epsilon
+wild-type and reeler mice
+ezrin
+uPAR
+poor disease-free survival
+tumor aggressiveness
+patients with bladder cancer
+sensitization
+candidate gene approach
+lung lesions
+control treatments
+novel missense mutation
+acinar cells
+human pancreatic neoplasms
+mixed neoplasms
+Hepsin
+gap junctions
+cell class
+parturition
+transactivation domain
+synaptic inhibition
+interaction site
+synaptic responses
+estrogen receptor alpha
+patients with rheumatoid arthritis
+plasma from septic shock patients
+skeletal muscle atrophy
+myosin content
+Myosin loss
+indirect immunofluorescence
+IRE
+beta cells
+uterus
+proliferation and the expression
+nigrostriatal dopamine system
+Expression and clinical
+disassembly
+squamous differentiation
+protein in mice
+activation markers
+induction of differentiation
+sucrose
+growth regulator
+vivo experiments
+sulfatase gene
+ACE
+syndrome type
+endophenotypes
+different brain regions
+inactivation of p53
+matrix adhesion
+major phosphorylation site
+anxiolytics
+cell cycle-regulated
+mitogen-activated protein kinase pathway
+patient with a syndrome
+macrophage inflammatory protein
+tyrosine phosphorylated
+Morphological analysis
+wild-type control mice
+cortical bone mass
+osteoblastic bone formation
+rat kidney
+cyclosporine
+human carcinomas
+schizophrenia and bipolar
+brains of patients
+consensus sequences
+RING finger motif
+spindle cell
+glycogen synthase
+perineuronal nets
+cAMP formation
+melatonin
+genotoxic stress
+helicase
+surface plasmon resonance
+neuronal receptors
+ultrastructure
+endocrine cells
+other transcription factors
+CDP
+naloxone
+-free medium
+malignant tissues
+alpha1-
+haloperidol
+optimal weights
+translocation-associated renal cell carcinoma
+endometrial carcinoma
+CGE-derived interneurons
+biological significance
+histamine
+uptake transporters
+follow-up of patients
+cell nuclear
+cell cycle-dependent
+auto-ubiquitylation
+major target
+cyclin-dependent protein kinases
+several lines of evidence
+species increase arginase activity
+fenretinide
+expression of molecules
+microarray technique
+dimers
+proteins p21
+poor clinical outcome
+activation domain
+invasive breast carcinomas
+zona matrix
+major glycoproteins
+zona pellucida genes
+ovarian granulosa cells
+tumour suppressor retinoblastoma
+cells such
+beta-1
+colon tumors
+secretory activity
+human acinar cells
+scatter factor
+suppression subtractive hybridization
+cDNA clones
+tetanic stimulation
+outermost region
+c-FLIP
+mouse cortex
+mitotic count
+invasion of hepatocellular carcinoma
+different mouse models
+Overexpression of p35
+substrate specificity
+hypoxia cells
+lymph node metastases and cancer-specific
+embryonic brain
+radial neuronal migration
+squamous carcinoma
+mGluR agonist
+mitotic spindle formation
+anticancer drug development
+rat spinal cord
+novel function
+reference group
+heterozygous missense mutation
+receptor isoforms
+dopamine receptors
+hypoxia-associated proteins
+malignant tumours
+corresponding lymph node metastases
+cDNAs
+pro-HB-EGF
+pregabalin action
+gestational weeks
+ethanol sensitivity
+antimicrobial peptide
+presynaptic terminals
+different time courses
+different developmental stages
+down-regulated genes
+slower increase
+selective gamma-aminobutyric acid
+theta
+breast cancer resistance protein
+p27 expressions
+biochemical evidence
+Rho-associated kinase
+lip
+phorbol 12-myristate 13-acetate
+keratin gene
+embryonic brain development
+beta2
+Dab1 phosphorylation
+alpha-smooth muscle actin
+substantia gelatinosa
+frequency and amplitude
+adult rat spinal cord
+nociceptive transmission
+acetylcholine receptors
+desensitization
+inhibitory transmission
+cellular events
+cystatin B
+thymidine kinase
+negative allosteric modulators
+etomidate
+eosinophil cationic protein
+children with atopic dermatitis
+nonhuman primates
+early stages of differentiation
+lateral entorhinal cortices
+taste buds
+-enkephalin
+lung fibroblasts
+tumor markers for lung cancer
+physiological role
+mouse hippocampus
+partner proteins
+egg activation
+tumor growth in vitro
+neuronal migration during development
+interneuron migration
+cells increases
+reoxygenation
+ventrolateral spinal cord
+steroid modulation
+sera from patients
+uptake of orotic acid
+mg protein
+porcine ovarian granulosa cells
+receptor beta
+tumor specimens
+limited disease
+mRNA expressions of hepatic hepcidin
+serum levels of cytokeratin
+neurone-specific enolase
+outward current
+gene of a patient
+routine use
+cytoplasmic tails
+characteristic feature
+granular layer
+Soluble form of carbonic anhydrase
+plasma and serum
+capillary density
+tissue remodeling
+kidney cells
+neuroactive steroids
+rat hippocampus
+overflow
+rat hippocampal
+Sunitinib malate
+cisplatin and gemcitabine
+anti-tumor effect of gemcitabine in human bladder cancer cells
+micrometastasis in the peripheral blood
+stratum radiatum
+keratin protein
+filament protein
+T-cell lymphomas
+paired-pulse facilitation
+homeobox genes
+highest proliferation rate
+ductular reaction hepatobiliary cells
+phage
+suppressor pathway
+permanent cell cycle arrest
+functional activity
+cardiac development
+subunit knockout mice
+kg ethanol
+chemoattractant factor
+cell treatment
+mast cells
+antennal lobes
+different receptor subtypes
+AmOA1 receptor
+development of distant metastases
+patients with renal cell carcinoma
+receptor blockade
+kainate receptor antagonist
+maydis
+gene cluster
+catalytic subunit
+chromosome arm
+Extracellular recordings
+gamma-aminobutyric
+relapse-free survival
+oligonucleotide
+NRAMP
+ubiquitin carboxy-terminal hydrolase
+gel filtration
+progenitor cell markers and cholangiocyte markers
+time constants
+Intracellular recording
+base pairs
+migration disorders
+subcortical band heterotopia
+increase in the abundance
+soleus muscle
+rat frontal cortex
+activation of caspases
+cell cycle block
+site interface
+halothane
+yotari mice
+novel RING finger protein
+cell nuclear antigen-positive
+present investigation
+forebrain development
+cell cycle effect
+cell cycle and cell proliferation
+salt wasting
+cervical neoplasia
+diagnostic utility of these biomarkers
+Low-level expression
+muscle specific
+causative mutations
+genotyping microarray
+affinities and efficacies
+reelin mRNA expression
+orx cells
+glycine responses
+developed hcrt
+neuronal cell migration
+neocortical pyramidal neurons
+mother and daughter
+control levels
+urine and serum
+Familial occurrence
+same family
+lip pits
+inner nuclear membrane
+cytoplasmic half
+malignant potential
+layer V neurons
+tonic neuronal inhibition
+regulator protein
+elegans embryo
+asymmetric cell division
+human blood
+tobacco smoke components
+protein synthesis inhibitor
+BAL fluid
+ceramide
+luminal cells
+action of benzodiazepines
+pulmonary fibrosis
+cases of thyroid papillary carcinoma
+reverse transcription-PCR assay
+peripheral blood in non-small cell lung cancer
+invasive clones
+pharynx
+receptors in sleep regulation
+seizure activity
+large part
+nanomolar displacement
+EBOB
+ephexin
+reporter gene
+Electrophoretic mobility shift assays
+X-linked ichthyosis
+ichthyosis
+FISH analysis
+oxidant stress
+procysteine
+levels and total
+total antioxidant potential
+excitatory transmission
+collagen expression
+titrations
+agonists such
+K19 scores
+transcription elongation factor
+reference population
+bladder transitional cell carcinoma
+serum cytokines
+reelin production
+hippocampal fissure
+phenotypic changes
+other serum markers
+gene polymorphism and non-syndromic oral
+coadministration
+zona pellucida glycoprotein
+endothelial-like cells
+tumor regions
+ccCK18
+healthy blood donors
+huge bladder cancer
+papain
+skin lesions
+epidermal keratinocytes
+Dual mechanisms
+keratocystic odontogenic tumor and orthokeratinized odontogenic
+workers
+primary afferent terminals
+pretreatment level
+neurons of the marginal zone
+axon trajectory choice
+cation transporter
+serine-threonine kinase
+insulin receptor substrate-1
+microtubule network
+yeast two-hybrid screening
+IL-16 immunoreactivity
+Soluble carbonic anhydrase
+cellular assimilation of iron from transferrin
+pharmacological properties
+chi2
+LNCaP cells
+alpha subunits
+nevi
+spermatocytes
+tobacco smoke
+individual management
+cell lung
+expression of the nuclear cofactor
+alpha4 subunit
+delta subunits
+gamma2
+flunitrazepam
+recording techniques
+neurotrophin receptors
+SFM
+pulp
+nestin expression
+human neocortex
+disease brain
+neu and NSE
+cut off values
+NSE in pleural effusion
+serum NSE
+acrosome
+unrelated families
+Effects of perinatal hypothyroidism on regulation
+iron content
+serum iron parameters
+classification methods
+patients with oral squamous cell carcinoma
+patients with benign breast disease
+Detection of three-marker-positive CTCs
+renal cell carcinoma biomarkers
+acute rejection
+chemotactic activity
+receptor alpha
+transcriptional regulation activity
+alpha2
+Chemopreventive effects of zinc on prostate carcinogenesis
+high grade prostatic intraepithelial neoplasia
+human insulin promoter
+cell cycle stages
+pentylenetetrazol-induced seizures
+cells and reelin
+lifespan in culture
+DNA fragmentation
+radial migration of cortical neurons
+gammadelta T cells
+root potentials
+microM
+presence of alpha
+ovarian cell functions
+serum deprivation
+phentolamine
+hypothalamic paraventricular nucleus
+sulfatase gene family
+meningitis
+4N cells
+cholangiocarcinoma cell lines
+shorter disease progression-free survival
+resected non-small cell lung cancer
+postsurgery
+beta3
+hepatic oval cells
+rat liver cirrhosis
+normal control rats
+matrix molecule
+glutamatergic neurotransmission
+patients with extrahepatic cholangiocarcinoma
+gamma-aminobutyric acid type A receptors
+delta subunit
+gamma-Aminobutyric acid type
+alpha4
+marginal zone and subplate
+developmental emergence
+diffusion tensor imaging
+indirect evidence
+acidic extracellular pH
+cell cycle checkpoint
+tumor suppressor gene product
+cyclin-dependent kinase activity
+delta receptors
+activity of complexes
+field EPSP
+integrin receptors
+beta subunit
+tip cells
+reelin-producing cells
+micromol
+agonist activation
+mRNA stability
+lung epithelial
+benzodiazepine agonist
+site agonists
+alphabetagamma
+serum-free medium
+striatal neurons
+soluble fragment of cytokeratin
+aprotinin
+novel ubiquitin ligase
+beta-hCG
+expression of differentiation markers
+other brain regions
+granule cell precursors
+whole-cell patch-clamp recordings in brain slices
+3-dicarboxylic acid
+membrane properties
+situ hybridization and immunofluorescence
+signal peptide
+electrophysiological analysis
+iron accumulation
+ginkgolide X
+beta subtypes
+alpha and beta
+gerbil
+single gene
+legumain
+high proportion
+GABA-induced currents
+cyclin T1
+tumor-suppressing bone morphogenetic protein
+parental cells
+blot analysis
+peripheral blood cells
+susceptibility marker
+hypogonadism
+layer I cells
+tooth agenesis
+palatine rugae patterns
+normal rats
+kDa fragment
+hepcidin expression
+chromogens
+same tissue section
+polymerase delta activity
+arylsulphatase
+chemical reagents
+pancreatic endocrine tumors
+hepatic adenoma
+myoepithelial cells
+alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid
+excitatory postsynaptic currents
+receptor-mediated inhibitory postsynaptic currents
+gamma subunits
+different subunits
+Kinetic properties
+hypnosis
+end points
+minimum alveolar concentration
+amnestic effect of isoflurane
+extracellular matrix components
+recombinant alpha
+lowest level of expression
+normal human retina
+bone cells
+ng ml
+polymerase chain
+mature rat cochlear nucleus
+immunoradiometric assay
+Semiquantitative immunoblotting
+receptor subunit gene expression
+IGF-1 receptor
+T-cell expansion
+leucocytes
+rhIL-16
+bicarbonate and protons
+complete blockade
+processivity factor
+pmol
+Clozapine and sulpiride
+haloperidol or olanzapine
+atypical antipsychotics
+candesartan treatment
+Isolation and identification
+exendin-4
+functional receptors
+diseased ocular surfaces
+dopamine transporter gene
+N-methyl-D-aspartic acid
+kynurenic acid
+excitatory amino acid receptors
+fetuin
+lithium-induced polyuria
+nuclear families
+severe preeclampsia
+Mechanism of inhibition
+hippocampal principal neurons
+finger
+large subunit
+serum vascular endothelial growth
+serum VEGF levels
+strong activation
+GC7 treatment
+sema3A
+guidance molecule
+receptor components
+cyclin-dependent kinase activator
+glutamate receptor antagonists
+calcium transients
+reversible inhibitor
+monoclonal antibodies specific
+last exon
+compound heterozygotes
+pseudodeficiency
+gli2 levels
+levels of cyclins
+chicken embryo
+tumor cells in bone marrow
+marker levels
+interstitial neurons
+proliferation in a dose-dependent manner
+other parts
+malignant samples
+first month
+Northern blot analysis
+amyloid precursor protein processing
+alpha3beta1 integrin
+wt p53
+harmaline
+pachytene
+cell proliferation and cell cycle progression
+plasmin and trypsin
+superfusion medium
+gamma-aminobutyric acid-A
+alpha1 subunit
+replication proteins
+lytic replication
+pelvic node metastasis and deep stromal
+peripheral cholangiocarcinomas
+early-onset encephalopathy
+disorder due
+signal transduction cascades
+vascular endothelial growth factor-targeted therapy
+TBPS
+beta subunits
+tumor cells in patients with breast cancer
+patients with breast carcinoma
+complement-type repeat
+wild-type denervated muscles
+cG250-TNF
+central fragment
+understanding of the role
+nanism
+sporadic fibrothecomas
+preeclamptic women
+gamma-aminobutyric acid-A receptors
+EPSPs
+initial steps
+T cell infiltration
+protein motif
+human embryonic kidney cells
+medial frontal cortex
+low glucose
+monocyte-adhesive hyaluronan matrix
+large increases
+danger signals
+T-bet and eomesodermin expression
+allergic contact dermatitis
+mu opioid receptors
+gamma2 subunits
+alpha4 subunits
+inner ear
+mIPSC frequency
+ethanol enhancement
+sarcoidosis patients
+avian pallium
+Role of carbonic anhydrase
+dexmedetomidine-treated patients
+TDI-induced asthma phenotype
+patients with TDI-induced asthma
+receptor antagonist 6-cyano-7-nitroquinoxaline-2
+certain cancers
+effect of baclofen
+complete deletion
+neuronal cell adhesion molecule
+resected specimens
+cases of telangiectatic focal nodular hyperplasia
+focal nodular hyperplasia-like pattern
+calcium ions
+different regions of the telencephalon
+variety of cell types
+mouse kidney
+promoter element
+sarcoma-associated herpesvirus
+late endosomes
+gestational age
+putative markers
+diagnostic test
+titin
+ethionine-supplemented diet
+useful tumour marker
+epsilon cells
+types of endocrine cells
+ER alpha
+differential protein expression
+alpha-helix
+clear-cell tumorigenesis
+primary cortical neurons
+tumor spread
+embryonic cells
+liter
+control tissue
+sham-stimulated spinalized rats
+alpha5 subunits
+high cell density
+alpha4beta3delta
+above results
+plant cells
+beta-adrenergic receptors
+pRb expression
+single amino acid
+common sites of breast cancer metastasis
+development of an immunocontraceptive vaccine
+simple epithelial keratins
+rDNA
+large T antigen
+acrosin
+interesting targets for anticancer drug development
+Deletion analysis
+constitution types
+tissue factor
+beta3 subunits
+demethylase activity
+patients with benign diseases
+HIF1 alpha
+low HIF1 alpha
+protein expression in myocardium after injection
+PCNA-positive cells
+oligosaccharide
+biochemical properties
+Changes in properties
+functions in the nervous system
+expression of beta-catenin
+drug delivery
+cure rates
+stem cell characteristics
+presence of metastases
+PC12 cells
+chronic stress
+adult rat brain
+brain stem
+centrifugation
+telangiectatic focal nodular hyperplasia
+site antagonist
+loreclezole
+non-cancer urological patients
+epsilon subunit
+high diagnostic sensitivity
+detection of progressive disease
+subplate neurons
+neocortical slices
+-2-amino-5-phosphonopentanoic acid
+beta-alanine and taurine
+gamma 2s
+cells with the use
+interplay between genetic vulnerability
+ascorbate
+partial inverse agonist
+other family members
+adherent epidermal cells
+disease phenotype
+phosphoinositide
+detectable effect
+neuronal inhibition
+subunit classes with multiple members
+neurological signs
+Collapsin response mediator protein
+tissue trauma
+adhesion formation
+gp120
+nebulin-free skeletal muscle
+gene structure
+Developmental neurobiology
+ANGPTL7 protein
+astrocyte IL-6 production
+molecular layer of the dentate gyrus
+periaqueductal gray matter
+concentration range
+interstitial pneumonia
+accumulation results
+primordial follicles
+cell growth control
+putative role
+cycle arrest
+high respiratory quotients
+patient plasma
+arylsulfatase activity
+specific association
+pFGE
+vasomotor rhinitis
+patients with allergic rhinitis
+M1 muscarinic receptors
+Barhl1 regulatory sequences
+GABA-activated currents
+sequence motif
+purification and characterization
+transient increase
+threshold value
+oligodendroglial brain tumors
+mutants arrest
+domain ligands
+prognostic value of cytokeratin
+first lineage decision
+cyclin D1 degradation
+recombinant rat
+inhibitory domains
+zaleplon
+function of gamma-aminobutyric acid type
+independent prognostic predictors of breast cancer metastasis
+sites of inflammation
+gamma subunit
+inhibitory postsynaptic potentials
+clinical relevance of serum
+pancreatic cancer patients
+peripheral blood lymphocytes
+little evidence
+warty dyskeratoma
+soluble guanylate cyclase
+islet samples
+phosphorylation of pRb
+furin cleavage site
+amino terminus
+ad libitum
+therapeutic applications for tumor management
+AtRAP2.2 protein levels
+unloading-induced muscle atrophy
+subgroups of colorectal cancer
+lizards
+Mouse model of type
+extraneuronal monoamine transporter
+desipramine treatment
+development of hippocampal connections
+nucleoside phosphonates
+gamma2L subunits
+agonist binding
+T factor
+dissociation rate constants
+alpha3 subunits
+CRMP2 phosphorylation
+electrophysiological studies
+tobacco smokers
+mg kg-1
+peptide uORFs
+cells and subplate neurons
+mouse cortical development
+inhibitory gamma-aminobutyric acid
+receptor alpha6
+holding potentials
+COS-7 cells
+p130Cas
+p21Cip1 protein
+helix-loop-helix protein
+p21Cip1 transcription
+activity results
+alpha6 subunit
+p110
+early embryonic development
+spontaneous activity
+alpha6 knockout mice
+alpha6-containing receptors
+mouse testis
+wild-type rats
+use in humans
+ranitidine
+high glucose-induced p21
+autoreceptors
+factor pathway inhibitor
+fast inhibition
+liver microsomes
+hOCTs
+estrous cycle
+G1 phase of the cell cycle
+T-cell counts
+translation start
+ethanol withdrawal
+benzodiazepine receptor antagonist
+receptor subunit composition
+independent predictors of survival
+epithelial ovarian cancer cells
+endocycle
+brucei
+fourth ventricle
+transmitter release probability
+pleural fluid levels
+Combined assay
+asthma patients
+promoter polymorphism
+squamous cell carcinomas of the head
+kinase subunits
+prolactinomas
+anacardium nut extract
+interdental papilla
+molecular composition
+marginal gingiva
+abnormal findings
+18F-FDG coincidence imaging
+bipolar disorder patients with psychosis
+S-adenosyl methionine and DNA methyltransferase-1
+activation of hepatocyte growth factor
+antisense oligonucleotide
+initiation codon
+peak amplitude
+Hypoxia-regulated carbonic anhydrase
+months after operation
+behavioral actions
+similar amounts
+liganded ER
+Mouse egg extracellular coat
+inhibitor from silkworm pupae
+new member
+largest family
+neuropathic pain syndromes
+patients with gastric carcinoma
+mouse spinal cord
+second population
+fimbria
+receptor sites
+donor origin
+betaPIX
+expression score
+mouse ocular surface
+bas-sup
+median pO
+advanced head-and-neck cancer
+histone hyperacetylation
+nigrostriatal system
+receptor-mediated mechanism
+sudden arrhythmic death syndrome
+Differential roles
+terminal ileum
+repeat polymorphism
+role in immune response
+same phenotype
+b rats
+gamma-aminobutyric acid release
+-2-amino-5-phosphonovaleric acid
+superfamily members
+clamp loader
+subdomain
+flunitrazepam binding
+histological findings
+transactivation function
+rat embryos
+adaptive reproductive protein evolution
+Renal expression of sodium transporters
+focal epilepsy
+leukotriene
+catatonia
+distinct domains
+pentosidine levels
+cortical plate neurons
+DNA replication and repair
+alveolar macrophages
+population spike
+train
+electrical stimuli
+reeler gene product
+human reelin gene
+maximal levels
+ARDS patients
+ammonium transport
+ammonium transporters
+lindane
+alkyl substituents
+genomic organization
+hyperphosphorylated tau protein
+target site
+receptor desensitization
+steroid sulphatase
+benzamide derivatives
+luminal saline pH
+osteoclastogenesis
+AP-1 family members
+cementoblasts
+osteoprotegerin
+cell growth and differentiation
+nucleic acid metabolism
+potential cancer biomarker
+rate constants
+recombinant virus
+voltage-clamp recordings
+extent of desensitization
+p34
+DNA polymerases
+carcinogenesis of cervical epithelia
+keratin protein expression
+trichoepitheliomas
+Identification of novel genes
+uptake of 1-methyl-4-phenyl pyridinium
+Coadministration of gamma-aminobutyric acid
+receptor mechanisms
+delta-aminovaleric acid
+hindlimb extensor
+perivascular cells
+squamous tumors
+cell population in cystic fibrosis airways
+caspase-8 inhibitory protein
+drugs and hormones
+uPA expression
+patients with respiratory infection
+p53 antibody
+kinetoplasts
+pupae
+association between reelin gene polymorphism
+benign nasopharyngeal disease
+anti-ADAMTS13 antibodies
+antagonist bicuculline
+rat midbrain
+focal epilepsy in most patients
+phosphoinositide binding
+mol x
+senescence of 2BS fibroblasts
+testicular orphan nuclear receptor
+latent infection
+growth factor-1
+secretory portions of sweat glands
+patients with worse outcome
+development of hypertension
+further insights into these mechanisms
+genomic structure
+immunological parameters
+separation of sister chromatids
+CA1 neurons
+postsynaptic responses
+neural connections
+bovine papillomavirus type
+cellular genes
+human type
+pombe
+metastasis-related response of lymphatic endothelium
+killer T cells
+receptor subunit combinations
+ovary and placenta
+convulsants
+bikunin
+eotaxin
+nerve cells
+gamma2 receptor subunits
+gamma2L subunit
+alpha1beta3delta receptors
+alpha6beta3delta receptor currents
+alphabetadelta receptors
+leucine-rich coiled-coil domain
+autosomal dominant form
+rat skeletal muscles
+insulin and hyperosmotic
+marker for poor prognosis in soft tissue sarcoma
+anagen hair follicles
+beta-alanine
+Saos-2 cells
+cAMP synthesis
+lateral amygdalar nucleus
+furosemide sensitivity
+significant predictors of survival
+C-terminal end
+mortalin expression
+human embryonic kidney cell line
+Southern blot analysis
+benzodiazepine and a barbiturate
+protein p130Cas
+gerbil hippocampus
+squamous cell carcinoma of the lung
+inhibitory neurotransmitter gamma-aminobutyric acid
+antiviral effects
+tissue factor pathway inhibitor-2
+human ovarian cancer cell line
+antisera
+neurons in the anterior commissure
+anterior commissure and corpus callosum
+cancerous cell lines
+line DNA
+interaction with the actin cytoskeleton
+normal renal tissues
+pacemaker
+Changes in rectal temperature
+partial agonist activation
+diabetes mellitus-induced changes
+cyclin B1 promoter
+receptor modulation and anesthesia
+brain membranes
+new therapeutic interventions
+synapse elimination at the neuromuscular junction
+antibodies reactive
+multiple diseases
+new gene family
+high NSE levels
+tissue-type plasminogen activator
+iron stores
+glycine antagonist
+channel complex
+human cyclin
+pleural effusion level
+water deprivation
+7-month-old rats
+acute exposure
+virus spread
+new splice variant
+EBP beta-2
+micrograms
+human immunodeficiency virus-1
+heart cells
+rat heart
+heart iron
+Local application
+control and reeler mice
+pedunculopontine tegmental nucleus
+effects of halothane
+inspiratory premotor neurons
+parent compound
+GABAergic mIPSC frequency
+okadaic acid
+SP3 activity
+initial stage of meningitis
+blood group
+human eosinophils
+double mutant cortex
+stem amniotes
+Simultaneous stimulation
+attachment zone
+cellular promoters
+evolutionary convergence
+synapsid lineage
+radial cortical organization
+evolution of cortical development
+C-terminal portion
+Steroid sulfatase deficiency
+cell cycle-dependent phosphorylation
+scytonemin
+gene with homology
+iron-deficient diet
+alpha subunit subtype
+subunit sequence
+math1 null-mutant mouse
+primary cultures of cerebellar granule cells
+ultraviolet radiation
+pentobarbitone
+telencephalic expression of reelin
+other alpha subunits
+alpha-hydroxy-5 alpha-pregnan-20-one
+polymerase delta
+feeder layer technique
+antigen challenge
+T cells and monocytes
+frequency of spontaneous GABAergic events
+gamma 2L
+ultraviolet a exposure
+human keratin
+human esophageal carcinoma
+heroin
+end of mitosis
+mouse mutation
+many other proteins
+processive DNA synthesis
+granule cells in situ
+point mutation in exon
+receptors in granule cells of adult rat cerebellar
+adult rat cerebellar slices
+ephrin-A5
+nRt cells
+clonazepam
+receptor subunit mRNA
+markers for colorectal cancer
+normal migration and positioning
+beta PC
+Diagnostic utility of serum
+grass-pollen season
+synaptic vesicle exocytosis
+inhibition of cysteine proteinases
+affinity for cathepsin
+papain and cathepsins
+blood mononuclear cells
+recR
+basal efflux
+knockout cells
+alpha-thujone
+rhinitis
+pure estrogen antagonist
+cell lung cancer patients
+different alpha subunits
+additional cases
+reactive site sequence
+spatial regulation
+rat striatum
+brain synaptic membranes
+delta-HCH
+radial organization
+substrate binding
+Reln-positive cells
+serum p53-Abs
+terminal secretory units
+focal stimulation
+receptor-mediated components
+alpha-galactose residues
+class I region
+salicylate
+human non-small cell lung cancer
+fibroblast nuclei
+cortical evolution
+member of the RING finger family
+serum levels of tumor necrosis factor-alpha
+growth-related oncogene protein-alpha
+soluble tumor necrosis factor receptor
+situ hybridization histochemistry
+NFP-positive nerve fibers
+new family of markers--hematopoietic growth factors
+paired-pulse depression
+dorsal root ganglion neurons of rat
+characteristic feature of protocadherin genes
+striatal slices
+microbial invasion of the amniotic cavity
+BWS patients
+imprinting control element
+bfp
+lymphocyte chemoattractant factor
+contiguous gene syndrome
+steroid sulphatase activity
+atypical cystic lobules
+low-grade ductal
+macrophage differentiation
+matrix-associated serine protease inhibitor
+superantigen
+COLO-357 cells
+nitric oxide synthase inhibitor
+second hairpin loop and the C-terminal
+Xp22.3 region
+B-cell proliferation
+second hairpin loop
+basal compartment
+metaplastic lesions
+hippocampus of the reeler mutant mouse
+cycling time
+Pharmacological characterization
+mitogenic signal transduction
+N-methyl-D-aspartate receptor currents
+decay phase
+bulb matrix
+topographic infidelity of proliferation
+promonocytic cell lines
+Antagonists of excitatory amino acid receptors
+production of beta-chemokines
+-2-amino-4-phosphonobutyric acid
+Central inhibitory effects of water extract
+cultured skin fibroblasts
+receptors in cultured hippocampal neurons
+mouse model of allergic asthma
+Pleural mesothelioma
+nicotinic responses
+degree of sulfation
+Chronic ethanol treatment
+extracellular cGMP
+mammary gland tumours
+efficacy of partial agonists
+interneurons by metabotropic glutamate receptors
+benign diseases of the head
+anti-analgesia
+intermediate lobe
+region of hippocampal slices
+foot shock
+basal binding
+chromosome transmission
+TIF1 beta
+posteromedial cortical amygdaloid nucleus
+gamma 2L and alpha
+lanthanide ions
+diazepam potentiation
+spore cells
+type I benzodiazepine
+osteosarcomas
+dentatorubral pallidoluysian atrophy
+Benign adult familial myoclonus epilepsy
+sulfatase region
+ABSTRACT TRUNCATED AT
+gephyrin aggregates
+-TBPS
+receptor by propofol
+tachykinin NK1 receptor antagonist
+colon adenocarcinoma cells
+heme oxygenase inhibitor
+alpha variant
+acetylcholine output
+alpha-MSH secretion
+opioid receptor activation
+alpha carbon
+cyclin F
+raphe neurons
+cell kinetic
+amino acid neurotransmitters
+rat medial vestibular nucleus
+low-grade B-cell lymphomas and reactive
+protein expression in low-grade B-cell lymphomas
+Southern hybridization
+detection of micrometastases
+laudanosine
+upstream promoter
+panel of monoclonal antibodies
+hybridization signal
+recurrent non-small-cell lung cancer
+Blood vessel invasion by tumor cells
+carbon monoxide
+alpha-HCH and delta-HCH
+low molecular weight platelet inhibitor of factor
+part of a cerebellar receptor subtype
+beta 4-subunit gene
+desmoplakins in human gingiva
+generation of second messengers
+collagen mRNAs
+bovine factor Xa
+Round-headed spermatozoa
+ductular profiles
+periapical granulomas
+malignant breast lesions
+human tumours and cultured
+keratin 19-cells
+storage disease
+risk of autism spectrum disorders
+gene variants and risk
+Immunohistochemical reevaluation of carbonic anhydrase
+variants with restless legs syndrome
+restless legs syndrome in end stage renal disease
+Association of candidate genetic variants
+T cell responses after ipilimumab treatment
+barrier impairment in mice
+Adult neural stem cells in distinct microdomains
+exit in mouse neuroblastoma cells
+expression signature of the angiogenic response in gastrointestinal neuroendocrine tumours
+microRNA expression of primary central nervous system diffuse large B-cell lymphomas
+ubiquitin ligase gene
+digital analysis of tissue microarray
+downregulates prohormone convertase
+relevance for psychiatric disorders
+differentiation during T cell activation
+pathway for normal migration
+T cells in association with transcriptional downregulation
+SNPs and interaction analyses
+plant defense responses
+comparison with clear cell renal cell carcinoma
+cells in the human heart after myocardial infarction
+clinical value of new tumor biomarker cytokeratin 2G2 detection
+excess nitric oxide generation by neuronal nitric oxide synthase
+intact islets interstitial
+Hypoxic tumor microenvironment in advanced retinoblastoma
+subfamily small GTPases
+neuronal differentiation and survival
+intimal hyperplasia after endovascular arterial injury
+liver progenitor cell proliferation in HBV-infected patients
+determinants of liver cancer progression
+liver cancer progression and prognosis
+inhibition of dentate gyrus granule cells
+Nucleus accumbens GABAergic inhibition
+Correlation between biological marker expression
+F-fluorodeoxyglucose uptake in cervical cancer
+axillary node status in breast cancer
+suPAR in gastric cancer
+combined targeted mutation analysis
+new insights into the complexity of gene regulation
+helix-loop-helix domain of the aryl hydrocarbon receptor nuclear translocator
+Crystal structures of matriptase in complex
+pathway in human bladder cancer cells
+case report and immunohistochemistry
+tumour cells in patients with early breast cancer
+Endocervical glandular neoplasia
+Heterotopic reelin in human nodular heterotopia
+receptor modulation by neurosteroids in models
+systemic application of cetuximab in combination
+quantification of carbonic anhydrase
+Glycosidic carbonic anhydrase
+progression-free intervals in patients with recurrent epithelial ovarian cancer
+Inhibition of carbonic anhydrase
+effect of posttreatment with estrogen
+effect of ring finger protein
+cell-matrix adhesion via inside-out activation
+CDK5 regulatory subunit-associated protein 1-like
+tail-anchored protein in the endoplasmic reticulum
+cystic fibrosis epithelium
+Renal phosphate handling
+lutetium 177-labeled anti-carbonic anhydrase
+monoclonal antibody girentuximab in patients with advanced renal cell carcinoma
+loss in primary biliary cirrhosis
+expression in the mushroom body
+Identification of blood-based molecular signatures for prediction
+gonadotrophin-releasing hormone neurones
+Quantitative salivary proteomic differences in oral chronic graft-versus-host disease
+proteins--a protective strategy
+Antidepressant use during pregnancy
+Differential secretome analysis
+nociceptive hypersensitivity after sciatic nerve injury
+kinase beta dependent cytokine upregulation in nociceptive neurons
+differentiation of retinal neurons
+lymph node metastasis of head
+receptor-mediated tonic current in hypoglossal motoneurons
+all-cause mortality in first-episode schizophrenia
+new treatment for skin inflammatory conditions
+gene CAC1 in the hippocampus
+hippocampal dentate gyrus of mice
+differentiation of neural stem cells by activation
+indicator of brain metastasis detection in advanced non-small cell lung cancer
+relevance of serum carcinoembryonic antigen
+predictive marker of doxorubicin resistance in early-stage breast cancer independent
+thyroid papillary microcarcinoma from benign lesions
+TCF7L2 transcription factor activation
+ovarian tumor and tumor-associated
+suppression of constitutive signal transducer
+activation in human prostate carcinoma
+Extraskeletal osteosarcoma with pulmonary metastasis in a female f344 rat
+cell tumor without expression of typical sex cord stromal
+characterization of recombinant human serine proteinase inhibitor
+Clinical application of the one-step nucleic acid amplification method
+glucose transporter-1 as predictors of disease outcome
+patient with primary sclerosing cholangitis
+primary sclerosing cholangitis and ulcerative
+novel detection method of non-small cell lung cancer
+virus core protein
+tumor markers for urothelial bladder carcinoma
+Insights into the phosphoryl transfer mechanism of cyclin-dependent protein kinases
+acid amplification for intraoperative diagnosis of breast cancer metastases
+memory of unpleasant experiences
+Participation of liver progenitor cells in liver regeneration
+tumour suppressive function in keratinocytes
+Effects of renal denervation on the NKCC2 cotransporter
+Developmental factor IRF6
+Association of common variants
+lymph node micrometastasis in resectable pancreatic cancer
+expression patterns in invasive breast cancer in relation
+radial migration mode and the Dab1-dependent inside-out
+Annotation of sheep keratin intermediate filament genes
+Brain phenotype of carbonic anhydrase IX-deficient mice
+conversion of dermal fibroblasts into myofibroblasts
+metastatic renal cell carcinoma of the thyroid
+involuntary movements and cognitive
+novel spinocerebellar ataxia type
+thioperamide with some antiepileptic drugs
+Effect of combined treatment of thioperamide
+severe liver damage and abnormal
+neuronal nitric oxide synthase in a subpopulation of dentate gyrus neurons
+application of sentinel node concept in gastric cancer
+Effect of bariatric surgery-induced weight loss
+dynamic contrast-enhanced magnetic resonance imaging with tissue hypoxia markers
+tissue hypoxia markers and clinical
+mid-embryonic stage results in premature lethality
+persistent depression of a fast after-depolarizing potential
+Barhl2 limits growth of the diencephalic primordium
+Spatiotemporal expression pattern of ceramide kinase-like in the mouse retina
+mutation patients with severe epileptic encephalopathy
+cd45-positive cells in human dermis
+Age-related changes in proliferation
+expression in renal neoplasms
+Differential response of human bone marrow stromal cells
+tumor markers in peripheral blood
+renal cell cancer and evaluation
+progression of hepatocellular carcinoma with cytokeratin
+importance of the coupling interface in the action
+Anti-inflammatory effects of the neurotransmitter agonist Honokiol in a mouse model
+Ontogenesis of rat immune system
+hypoxia-inducible factor activation
+human neural protein network
+Update on epigenetic regulation in pathophysiologies
+pathophysiologies of stress-induced psychiatric disorders
+potential tumor markers for malignant mesothelioma
+Evidence of gene-environment interaction
+Fatty acid binding proteins in brain development
+Reelin expression during embryonic development of the pig brain
+expression aids in the differential diagnosis of non-neoplastic bile duct diseases
+porcine ovarian cell functions
+kainate-excitotoxicity in MK801-induced neuronal death in the retrosplenial cortex
+Systematic genetic dissection of p14ARF-mediated mitochondrial cell death
+radiation efficacy for head-and-neck squamous cell carcinoma
+carcinoembryonic antigen levels in malignant pleural effusions of lung adenocarcinoma
+investigations in a mosquito cell line
+galectin-3 expression in patients with thyroid tumors
+glioma-genesis and a novel LEO1-SLC12A1
+Inhibition of histone deacetylases in rats
+regulation of divalent metal transporter
+E2F-1 pathway during reverse cardiac remodelling
+Reversible regulation of the retinoblastoma protein
+key regulators of photoreceptor development
+accessible sites in target mRNAs
+Tumor cell growth inhibition and cell differentiation analysis
+cell differentiation analysis in a canine mammary tumor cell line
+homomeric 5-HT3 receptor function
+act on adenosine 5'-phosphosulfate as hydrolases
+Clinical meaning of age-related expression of fecal cytokeratin
+non-muscle-invasive bladder cancer by urine cytology
+follow-up of patients with non-muscle-invasive bladder cancer
+rhaponticum on estrogen-regulated targets in the uterotrophy model
+prognostic marker for oral squamous cell carcinoma
+control of the nigro-thalamic pathway
+molecular imaging of hypoxic regions in solid tumours
+new strategy against cancer
+Identification of a functional splice variant
+prognosis of patients with gynecologic malignancies
+Th17-like developmental process
+unique case report and review
+sex-body formation during male mouse meiosis
+Cross-species immunohistochemical investigation of the activation
+Developmental potential of rat extraembryonic stem cells
+Molecular assessment of sentinel lymph node in breast cancer management
+Development of a multiplex ligation-dependent probe amplification assay for diagnosis
+low-protein diet and dexamethasone
+small cell carcinoma of sinonasal tract
+osteoblast maturation and mineralization
+modulation by GABA-mimetic drugs
+17Beta-hydroxysteroid dehydrogenase enzymes and breast cancer
+significance of specific proteolytic cleavage
+Precerebellin-related genes and precerebellin
+peptide in endocrine glands of the rat
+evidence of a precursor cell marker
+hypoxia survival in colorectal cancer cells
+pulmonary cell inflammation and permeability
+expression in pulmonary cell inflammation
+cancer cell growth rates and invasiveness
+biochemical correlates of extreme constitutional types
+blastocyst and adult brain expression
+4-thiadiazole-2-thione derivatives as tumor-associated carbonic anhydrase
+Genetic polymorphisms and preliminary
+lymph node involvement in cervical cancer
+SDF-1 chemokine receptor CXCR7
+Proteomic analysis for human urinary proteins
+pathogenesis of human chronic kidney disease
+Human tumor nanoparticles
+lessons from mouse chimeras
+GABA release by basket cells
+Wnt-3a-imposed inhibition of in vitro mammary differentiation
+predictive biomarker of response
+Epigenetic model in the pharmacologic modulation of vulnerability
+Clinical value of combined determination of serum
+Time constraints and positional
+cell placement in the cortical architecture
+hepatocyte nuclear factor-4alpha in mice
+quadrupedal locomotion in humans
+cancer-associated RING finger protein
+radial glial elongation in neonatal ferret cortex
+GABA in the female brain
+makrers in cervical cancer
+rat fibroblasts and cardiomyocytes
+Expression of new prognostic markers
+Identification of the functional role
+Effect of distributional heterogeneity on the analysis
+immature adherens junctions in epidermal keratinocytes
+proposals for new diagnostic criteria
+serum in multiple myeloma cells
+breast cancer of triple-negative phenotype
+Outcomes in young women with breast cancer
+tumor growth without toxicity
+Reelin signals through phosphatidylinositol 3-kinase
+memory in schizophrenia families
+Replication of linkage on chromosome 7q22
+chromosome 7q22 and association
+-dependent senescence in p53-positive cancer cells
+interleukin-23 and macrophage inflammatory
+serum levels of interleukin-23
+mutations in a Finnish family with hereditary pancreatitis
+novel MeCP2 targets
+Expression of the novel protein PTPIP51 in rat liver
+substrate recognition sites
+derailment of cell cycle regulators
+human spermatozoa and subsequent
+mechanism of vascular endothelial cells-like
+Confirmation of region-specific patterns of gene expression
+signal pathways in cortex of hippocampal CA1 specific NMDAR1 knockout mice
+p21 in methylcholanthrene-induced mouse rhabdomyosarcomas
+functional characterization of genetic variants of human organic cation transporters
+poor survival in patients with invasive breast cancer
+Modulation of beta-catenin by cyclin-dependent kinase
+Differential expression patterns of chloride transporters
+normal primary endocervical adenoepithelial cells
+regulation by the serine protease inhibitor
+Combinatorial effects of the phytoestrogen genistein
+prevention strategies of colorectal cancer
+target for novel treatment
+New perspectives on the role
+lines in the retinotectal system
+tamoxifen therapy for breast cancer
+fecal occult blood test in screening for gastrointestinal diseases
+Biomechanical regulation of hedgehog
+proliferation of human cells
+erlotinib in hepatocellular cancer
+transcriptional activity of hypoxia-inducible factor
+Determinant factors of spectrum of missense variants
+Paradoxical effects of prenatal acetylcholinesterase blockade on neuro-behavioral development
+cell nuclear antigen trimer at work
+Lymphocytic choriomeningitis virus mx strain
+Ductular proliferation in liver tissues with severe chronic hepatitis B
+Comparative aspects of cerebral cortical development
+human male reproductive tract
+evolution of processed pseudogenes
+IGF-1 increases laminin
+smooth muscle cell proliferation and migration
+flow cytometry and real-time
+immunogene therapy of renal cell cancer
+glutamate secretion in mouse neocortical preplate
+receptor-mediated tonic inhibition in thalamic neurons
+tumour cells in patients with non-small cell lung cancer
+Identification of histological markers for malignant glioma
+gene polymorphisms with autism
+proliferation in liver metastases in patients
+fragments in patients with effusions
+serum and pleural fluid carcinoembryonic
+neural development and cancer
+Molecular mechanisms of lipoprotein receptor
+Apoptosis in budding yeast
+malignant potential in endometrial carcinoma
+hormones in mid-gestation human fetus
+rat periaqueductal grey neurons
+growth-control genes during overload-induced skeletal muscle hypertrophy
+membrane of the dorsal root ganglion neurons
+potentiation of GABA-activated current in the membrane
+roles of PI3 kinase
+cerebellar precursor cells
+proliferation control of medulloblastoma
+rat ventral tegmental area
+bone cells during osteogenesis
+survival pathways in patients with advanced malignancies
+early development of the cerebral cortex
+Neuronal migration and the role
+role of reelin during early development
+division plane in anaphase
+extracellular signal-regulated kinase activity in cells
+Recent developments in the transcriptional regulation of cytolytic effector cells
+target collapsin response mediator protein-2
+G2736A polymorphism of thiazide-sensitive
+new perspectives on alcohol actions
+skeletal muscle differentiation through repression of myogenic transcription factors
+Regulation of actin cytoskeleton by mDab1
+duplication event in an affected male due
+maternal X chromosome pericentric inversion
+zinc transport along the rat nephron
+reactive oxygen species and cell cycle progression
+assembly of muscle attachment structures
+mutant mice and correlations
+reelin-induced proteasomal degradation of the neuronal adaptor protein
+novel population of calretinin-positive neurons
+target specificity and termination
+Proinflammatory cytokines and skeletal
+gene in an Italian family
+ovarian cancer cell growth
+mineralization of osteoblasts in vitro
+Molecular abnormalities of the hippocampus in severe psychiatric illness
+Enhanced concentrations of interleukin
+Mitotic regulation of the human anaphase-promoting complex by phosphorylation
+loss of pharmacological effects of gamma-hydroxybutyrate
+receptor channels from low-
+Role of vasopressin in diabetes mellitus-induced
+tonsillar squamous cell carcinomas from Chinese patients
+Th1 cell migration
+Neuroactive steroid interactions with voltage-dependent anion channels
+IGF-I-induced hypertrophy in rat muscles
+truncated protein isoform
+Analysis of renal tubular electrolyte transporter genes
+p27Kip1 in primary skeletal muscle satellite cells
+paxillin ubiquitination and altered
+reduction in virus titer after anterior chamber inoculation
+domain functions of hepatocyte growth factor activator inhibitor-1B
+Zinc accumulation in N-methyl-N-nitrosourea-induced rat mammary tumors
+Aberrant lamination in the cerebral cortex of mouse embryos
+metabotropic glutamate receptors in rat ventral tegmental
+ultrafine air pollution particles
+Ectopic corticospinal tract and corticothalamic
+CFTR-deficient murine colon
+multiple DNA-damaging agents
+cerebellar granule neurons via organic cation transporter
+Cip1 signal transduction pathway in inhibition of IGF-I-mediated cell growth response
+nomenclature of the zona pellucida gene family
+Cajal-Retzius and subplate neurons
+depletion after renal ischemia-reperfusion
+ovarian cancer cell invasion
+moderate asthmatic individuals
+RNA-independent induction of HIV-1 long terminal repeat
+Targeted expression of IGF-1 transgene
+acute rejection in kidney transplants
+different soft tissue sarcoma types in nude mice
+malformative patterns and indications
+Molecular genetic analysis of cold-regulated gene transcription
+Regulation of the CDK-related protein kinase
+Role for reelin in the development
+Characterization of gene expression
+CA1 neurons of the gerbil hippocampus in the ischemia-tolerant state
+opioid receptor in rat subthalamic
+Presynaptic modulation of synaptic transmission by opioid receptor
+Distinct phosphorylation events
+growth factor-beta gene transcription
+quantification of cyclin D1 expression
+extracellular space during apoptosis
+receptor delta subunit-deficient mice
+Regulation of keratin expression by ultraviolet radiation
+NKCC1 cotransporter selectivity for loop diuretic drugs
+amyloid beta-peptide-induced neuronal death and insulin-like
+Unique insecticide specificity of human homomeric rho
+Regulation of human extraneuronal monoamine transporter
+novel repetitive units of reelin
+cell-like dendritic cells
+human disease mutations through the use of interspecific genetic variation
+GABAA-receptor plasticity during long-term exposure
+Effect of seasonal allergen exposure
+measurements of membrane potential
+opioid-induced feeding in the shell region of the nucleus accumbens
+Nasal IL-16 and MIP-1
+MIP-1 alpha in late-phase allergic response
+origin of isocortical development
+bone resorption by members
+human recombinant gamma-aminobutyric acid
+Involvement of pRB-related p107 protein in the inhibition
+hyperthermophilic archaeon Pyrococcus furiosus
+expressions in the reelin haploinsufficient heterozygous reeler mouse
+useful tumor marker in superficial esophageal squamous cell carcinoma
+human breast cancer cells and identification
+clinical utility for detection of recurrences
+accumulation of p130-E2F4 complexes characteristic of quiescence
+cyclin E-Cdk2 activity in MCF-7 breast cancer cells
+new subfamily of mammalian homeobox genes
+cells in the rat cerebellum
+primary human breast carcinoma with 3T3 feeder layer technique
+Subunit composition and pharmacological
+inhibitory transmission in substantia gelatinosa of adult rat spinal
+patterns of localization of putative stem cells
+primary bronchial cancers
+serum tumor markers in the management
+vivo human immunodeficiency virus-1 replication in the lungs
+clinical diagnostic performance in urine samples of patients
+Kinetics of lymphokine production
+bean chymotrypsin inhibitor
+tissue polypeptide antigen in malignant mesothelioma
+G1-arrested somatotrophs in vitro
+phenotypic characteristics of heterozygous reeler mouse
+tumor markers in oncological clinics
+Effects of cyclin-dependent kinase inhibitors on transcription
+molecular basis of phenotypic heterogeneity
+crush of the optic nerve
+outgrowth from goldfish retinal explants
+putative vulnerability factor in schizophrenia
+body gastritis of dyspeptic children
+Simultaneous detection of glutamic acid decarboxylase
+reelin mRNA in adult rat neurons
+Disruption of insulin-like growth factor-1
+variants of tissue factor pathway inhibitor
+chronic renal failure patients
+Role of curdlan sulfate in the production
+modulation of fast anterograde axonal transport
+steroid receptor-mediated gene transcription
+graminei rhizoma in mice
+Ictal epileptiform activity
+epidermal growth factor expression in human uterine leiomyoma
+Identification of a unique domain in bovine brain
+hippocampus of adult rats
+reperfusion injury of the liver in rats
+Mass spectrometric analysis of the anaphase-promoting complex from yeast
+hippocampal slices from kainate-induced epileptic rats
+gamma-aminobutyric acid release from CA1 neurons of rat hippocampal
+absence of structural mutations
+alpha6 subunit in cerebellar granule cells
+reelin in cortical development
+bud emergence and identification
+Characterization of point mutations in patients
+mRNA with reverse transcriptase-polymerase chain reaction
+extracervical disease and prognosis
+cell alignment by reelin
+Role of cerebellar granule cell-specific
+receptor subtype in the differential sensitivity
+gamma-aminobutyric acid release by kainate receptor activation in rat hippocampal
+immunodeficient HIV-infected individuals with indinavir
+lymph nodes of patients without breast cancer
+MO15-related protein kinase from Plasmodium falciparum
+Opioid receptor-mediated control of acetylcholine release in human neocortex tissue
+Histologic characteristics of breast cancers with occult lymph node metastases
+neck squamous cell cancer
+membrane properties and postsynaptic
+Developmental changes in membrane properties
+bicuculline during resistive loaded breathing
+midazolam on sleep in rats
+gamma-aminobutyric acid receptor pharmacology in cerebellar granule neurons
+subunit antisense oligodeoxynucleotides
+biochemical applications on plasma kallikrein
+Characterization of a cluster of sulfatase genes
+high alcohol sensitivity
+Distinct deactivation and desensitization kinetics
+Epithelial development in the rat ventral prostate
+cyclin H-cdk7 complexes in starfish
+influence of experimental ischaemia on protein kinase
+P13suc1 associates with a cdc2-like kinase in a multimeric cytoskeletal complex
+Fibroblast proliferation during myocardial development in rats
+new genes and a regional
+human iduronate-2-sulfate sulfatase locus
+CD4-associated tyrosine kinase p56lck
+mitogen-activated protein kinase homolog
+Functional characterization of the MKC1 gene
+Effect of zolpidem on gamma-aminobutyric acid
+Platelet receptors for collagens
+gamma receptor subunit combinations
+gamma-aminobutyric acidA receptor alpha subunit
+Differential phosphorylation of intracellular domains of gamma-aminobutyric acid type
+Inhibition of phosphoprotein phosphatases
+GABAergic activity of quisqualamine
+HPV16 E7 oncoprotein
+cDNAs from a variety of mammalian species
+zona pellucida genes and cDNAs
+effect of 6-methyl substitution on the electrophysiological activity
+pathogenic investigation for graft rejection
+axon terminals of rat brain
+promoter of the human gene
+Keratin gene expression in non-epithelial tissues
+G-protein-mediated signal transduction mechanisms
+cDNA clone for human glucosamine-6-sulphatase
+Animal models in micromanipulation
+tau protein into an Alzheimer-like state
+Qualitative characterization of oligosaccharide chains present on the rat zona pellucida glycoconjugates
+large domain common
+receptors in transfected human embryonic kidney cells
+comparison of the relative activities of a number
+isolation of an iduronate-2-sulfatase cDNA clone
+potentiation by lithium ions
+excitatory amino acid responses
+binding of inverse agonists for benzodiazepine
+end of the last exon
+human sperm-zona interactions
+Opioid receptor mechanisms in the rat hippocampus
+Differentiation patterns of testicular germ-cell tumours
+gamma-aminobutyric acid receptor modulation of cyclic AMP accumulation in rat brain slices
+calcium fluxes and neurotransmitter release
+Quantitative equilibrium radionuclide ventriculography at rest in the evaluation
+receptors on excitation-secretion coupling
+association with arylsulfatase A deficiency
+Prenatal diagnosis of metachromatic leukodystrophy in a family
+Prenatal diagnosis of I-cell disease

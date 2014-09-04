@@ -1,0 +1,14 @@
+self-perceived_need,panic_disorder,4
+self-perceived_need,mental_disorders,4
+self-perceived_need,body,4
+self-perceived_need,suicidal_ideation,4
+self-perceived_need,combat,4
+self-perceived_need,exposure,4
+panic_disorder,mental_disorders,5
+panic_disorder,exposure,7
+mental_disorders,exposure,83
+body,suicidal_ideation,1
+body,combat,109
+body,exposure,149
+suicidal_ideation,exposure,25
+combat,exposure,333

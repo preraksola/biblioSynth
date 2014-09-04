@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Cinzel+Decorative:400,700,900' rel='stylesheet' type='text/css'>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<title></title>
+	<meta name="Generator" content="Cocoa HTML Writer">
+	<meta name="CocoaVersion" content="1265.21">
+	<link rel="stylesheet" type="text/css" href="../css/primary.css">
+</head>
+
+<body>
+	<div class="search">
+	
+	<nav>
+		<div class = "menu-item">
+			<h3> Global View </h3>
+			<form action="../../one_term.py" target="iframe_content">
+				<input type = "radio" name = "GraphMode" value = "all"> Most Connected
+				</br>
+				<input type = "submit" value = "View">
+			</form>
+		</div>
+		
+		<div class = "menu-item">
+			<h3> Subgraph </h3>
+			<form action="../../one_term.py" target="iframe_content">
+				<input type = "text" id = "gt" placeholder = "Subgraph Term" name = "GraphTerm">
+				</br>
+				<input type = "radio" name = "GraphMode" value = "text"> Text View </li>
+				</br>
+				<input type = "radio" name = "GraphMode" value = "simple"> Simple Graph View </li>
+				</br>
+				<input type = "radio" name = "GraphMode" value = "complete"> Complete Graph View </li>
+				</br>
+				<input type = "submit" value = "View">
+			</form>
+		</div>
+		
+		<div class = "menu-item">
+			<h3> Co-occurrence of 2 Terms </h3>
+			<form action="../../co_articles.py" target="iframe_content">
+				<input type = "text" id = "ft" value = "" placeholder = "First Term" name = "FirstTerm">
+				</br>
+				<input type = "text" id = "st" value = "" placeholder = "Second Term" name = "SecondTerm">
+				</br>
+				<input type = "submit" value = "View">
+			</form>
+		</div>
+	</nav>
+	</div>
+
+
+		<div class="content">
+		</div> 
+
+	
+</body>
+
+</html>

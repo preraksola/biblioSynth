@@ -1,0 +1,17 @@
+ethical_determinants_of_human_sexuality,women,2
+ethical_determinants_of_human_sexuality,Outcomes,2
+ethical_determinants_of_human_sexuality,armed_conflict,2
+ethical_determinants_of_human_sexuality,rape,2
+ethical_determinants_of_human_sexuality,abuse,2
+ethical_determinants_of_human_sexuality,war-related_violence,2
+women,armed_conflict,79
+women,rape,173
+women,abuse,138
+women,war-related_violence,16
+Outcomes,armed_conflict,77
+Outcomes,rape,10
+Outcomes,abuse,27
+Outcomes,war-related_violence,10
+rape,abuse,39
+rape,war-related_violence,3
+abuse,war-related_violence,1

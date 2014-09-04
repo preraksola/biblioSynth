@@ -1,0 +1,9 @@
+Clinical_recognition_and_management,exposure,4
+Clinical_recognition_and_management,terrorism,4
+Clinical_recognition_and_management,biological_warfare_agents,4
+Clinical_recognition_and_management,terrorist_attacks,4
+Clinical_recognition_and_management,toxins,4
+Clinical_recognition_and_management,warfare,2
+terrorism,biological_warfare_agents,10
+terrorism,terrorist_attacks,107
+biological_warfare_agents,terrorist_attacks,30
